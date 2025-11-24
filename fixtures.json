@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "2025-26-G12-CAG-GEN",
+    "matchday": 12,
+    "date": "2025-11-22",
+    "time": "15:00",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Genoa",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari"
+  },
+  {
+    "id": "2025-26-G12-UDI-BOL",
+    "matchday": 12,
+    "date": "2025-11-22",
+    "time": "15:00",
+    "homeTeam": "Udinese",
+    "awayTeam": "Bologna",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine"
+  },
+  {
+    "id": "2025-26-G12-FIO-JUV",
+    "matchday": 12,
+    "date": "2025-11-22",
+    "time": "18:00",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Juventus",
+    "stadium": "Stadio Artemio Franchi",
+    "city": "Firenze"
+  },
+  {
+    "id": "2025-26-G12-NAP-ATA",
+    "matchday": 12,
+    "date": "2025-11-22",
+    "time": "20:45",
+    "homeTeam": "Napoli",
+    "awayTeam": "Atalanta",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli"
+  },
+  {
+    "id": "2025-26-G12-VER-PAR",
+    "matchday": 12,
+    "date": "2025-11-23",
+    "time": "12:30",
+    "homeTeam": "Hellas Verona",
+    "awayTeam": "Parma",
+    "stadium": "Stadio Marcantonio Bentegodi",
+    "city": "Verona"
+  },
+  {
+    "id": "2025-26-G12-CRE-ROM",
+    "matchday": 12,
+    "date": "2025-11-23",
+    "time": "15:00",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Roma",
+    "stadium": "Stadio Giovanni Zini",
+    "city": "Cremona"
+  },
+  {
+    "id": "2025-26-G12-LAZ-LEC",
+    "matchday": 12,
+    "date": "2025-11-23",
+    "time": "18:00",
+    "homeTeam": "Lazio",
+    "awayTeam": "Lecce",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G12-INT-MIL",
+    "matchday": 12,
+    "date": "2025-11-23",
+    "time": "20:45",
+    "homeTeam": "Inter",
+    "awayTeam": "AC Milan",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G12-TOR-COM",
+    "matchday": 12,
+    "date": "2025-11-24",
+    "time": "18:30",
+    "homeTeam": "Torino",
+    "awayTeam": "Como",
+    "stadium": "Stadio Olimpico Grande Torino",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G12-SAS-PIS",
+    "matchday": 12,
+    "date": "2025-11-24",
+    "time": "20:45",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Pisa",
+    "stadium": "MAPEI Stadium - Città del Tricolore",
+    "city": "Reggio Emilia"
+  },
+  {
+    "id": "2025-26-G13-BOL-CRE",
+    "matchday": 13,
+    "date": "2025-11-29",
+    "time": "12:30",
+    "homeTeam": "Bologna",
+    "awayTeam": "Cremonese",
+    "stadium": "Stadio Renato Dall'Ara",
+    "city": "Bologna"
+  },
+  {
+    "id": "2025-26-G13-ROM-NAP",
+    "matchday": 13,
+    "date": "2025-11-29",
+    "time": "15:00",
+    "homeTeam": "Roma",
+    "awayTeam": "Napoli",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G13-PAR-UDI",
+    "matchday": 13,
+    "date": "2025-11-29",
+    "time": "18:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Udinese",
+    "stadium": "Stadio Ennio Tardini",
+    "city": "Parma"
+  },
+  {
+    "id": "2025-26-G13-JUV-CAG",
+    "matchday": 13,
+    "date": "2025-11-29",
+    "time": "20:45",
+    "homeTeam": "Juventus",
+    "awayTeam": "Cagliari",
+    "stadium": "Allianz Stadium",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G13-PIS-INT",
+    "matchday": 13,
+    "date": "2025-11-30",
+    "time": "12:30",
+    "homeTeam": "Pisa",
+    "awayTeam": "Inter",
+    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "city": "Pisa"
+  },
+  {
+    "id": "2025-26-G13-GEN-VER",
+    "matchday": 13,
+    "date": "2025-11-30",
+    "time": "15:00",
+    "homeTeam": "Genoa",
+    "awayTeam": "Hellas Verona",
+    "stadium": "Stadio Luigi Ferraris",
+    "city": "Genova"
+  },
+  {
+    "id": "2025-26-G13-ATA-FIO",
+    "matchday": 13,
+    "date": "2025-11-30",
+    "time": "18:00",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Fiorentina",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo"
+  },
+  {
+    "id": "2025-26-G13-MIL-LAZ",
+    "matchday": 13,
+    "date": "2025-11-30",
+    "time": "20:45",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Lazio",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G13-LEC-TOR",
+    "matchday": 13,
+    "date": "2025-12-01",
+    "time": "18:30",
+    "homeTeam": "Lecce",
+    "awayTeam": "Torino",
+    "stadium": "Stadio Via del Mare",
+    "city": "Lecce"
+  },
+  {
+    "id": "2025-26-G13-COM-SAS",
+    "matchday": 13,
+    "date": "2025-12-01",
+    "time": "20:45",
+    "homeTeam": "Como",
+    "awayTeam": "Sassuolo",
+    "stadium": "Stadio Giuseppe Sinigaglia",
+    "city": "Como"
+  },
+  {
+    "id": "2025-26-G14-TOR-MIL",
+    "matchday": 14,
+    "date": "2025-12-06",
+    "time": "15:00",
+    "homeTeam": "Torino",
+    "awayTeam": "AC Milan",
+    "stadium": "Stadio Olimpico Grande Torino",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G14-INT-COM",
+    "matchday": 14,
+    "date": "2025-12-06",
+    "time": "18:00",
+    "homeTeam": "Inter",
+    "awayTeam": "Como",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G14-UDI-NAP",
+    "matchday": 14,
+    "date": "2025-12-06",
+    "time": "20:45",
+    "homeTeam": "Udinese",
+    "awayTeam": "Napoli",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine"
+  },
+  {
+    "id": "2025-26-G14-FIO-VER",
+    "matchday": 14,
+    "date": "2025-12-07",
+    "time": "12:30",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Hellas Verona",
+    "stadium": "Stadio Artemio Franchi",
+    "city": "Firenze"
+  },
+  {
+    "id": "2025-26-G14-GEN-INT",
+    "matchday": 14,
+    "date": "2025-12-07",
+    "time": "15:00",
+    "homeTeam": "Genoa",
+    "awayTeam": "Inter",
+    "stadium": "Stadio Luigi Ferraris",
+    "city": "Genova"
+  },
+  {
+    "id": "2025-26-G14-PAR-LAZ",
+    "matchday": 14,
+    "date": "2025-12-07",
+    "time": "15:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Lazio",
+    "stadium": "Stadio Ennio Tardini",
+    "city": "Parma"
+  },
+  {
+    "id": "2025-26-G14-ATA-CAG",
+    "matchday": 14,
+    "date": "2025-12-07",
+    "time": "18:00",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Cagliari",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo"
+  },
+  {
+    "id": "2025-26-G14-BOL-JUV",
+    "matchday": 14,
+    "date": "2025-12-07",
+    "time": "20:45",
+    "homeTeam": "Bologna",
+    "awayTeam": "Juventus",
+    "stadium": "Stadio Renato Dall'Ara",
+    "city": "Bologna"
+  },
+  {
+    "id": "2025-26-G14-LEC-PIS",
+    "matchday": 14,
+    "date": "2025-12-08",
+    "time": "18:30",
+    "homeTeam": "Lecce",
+    "awayTeam": "Pisa",
+    "stadium": "Stadio Via del Mare",
+    "city": "Lecce"
+  },
+  {
+    "id": "2025-26-G14-ROM-CAG",
+    "matchday": 14,
+    "date": "2025-12-08",
+    "time": "20:45",
+    "homeTeam": "Roma",
+    "awayTeam": "Cagliari",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G15-PIS-PAR",
+    "matchday": 15,
+    "date": "2025-12-13",
+    "time": "15:00",
+    "homeTeam": "Pisa",
+    "awayTeam": "Parma",
+    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "city": "Pisa"
+  },
+  {
+    "id": "2025-26-G15-JUV-TOR",
+    "matchday": 15,
+    "date": "2025-12-13",
+    "time": "18:00",
+    "homeTeam": "Juventus",
+    "awayTeam": "Torino",
+    "stadium": "Allianz Stadium",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G15-NAP-MIL",
+    "matchday": 15,
+    "date": "2025-12-13",
+    "time": "20:45",
+    "homeTeam": "Napoli",
+    "awayTeam": "AC Milan",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli"
+  },
+  {
+    "id": "2025-26-G15-CAG-UDI",
+    "matchday": 15,
+    "date": "2025-12-14",
+    "time": "12:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Udinese",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari"
+  },
+  {
+    "id": "2025-26-G15-COM-FIO",
+    "matchday": 15,
+    "date": "2025-12-14",
+    "time": "15:00",
+    "homeTeam": "Como",
+    "awayTeam": "Fiorentina",
+    "stadium": "Stadio Giuseppe Sinigaglia",
+    "city": "Como"
+  },
+  {
+    "id": "2025-26-G15-LAZ-ATA",
+    "matchday": 15,
+    "date": "2025-12-14",
+    "time": "15:00",
+    "homeTeam": "Lazio",
+    "awayTeam": "Atalanta",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G15-SAS-LEC",
+    "matchday": 15,
+    "date": "2025-12-14",
+    "time": "18:00",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Lecce",
+    "stadium": "MAPEI Stadium - Città del Tricolore",
+    "city": "Reggio Emilia"
+  },
+  {
+    "id": "2025-26-G15-INT-GEN",
+    "matchday": 15,
+    "date": "2025-12-14",
+    "time": "20:45",
+    "homeTeam": "Inter",
+    "awayTeam": "Genoa",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G15-CRE-BOL",
+    "matchday": 15,
+    "date": "2025-12-15",
+    "time": "18:30",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Bologna",
+    "stadium": "Stadio Giovanni Zini",
+    "city": "Cremona"
+  },
+  {
+    "id": "2025-26-G15-VER-ROM",
+    "matchday": 15,
+    "date": "2025-12-15",
+    "time": "20:45",
+    "homeTeam": "Hellas Verona",
+    "awayTeam": "Roma",
+    "stadium": "Stadio Marcantonio Bentegodi",
+    "city": "Verona"
+  },
+  {
+    "id": "2025-26-G16-BOL-INT",
+    "matchday": 16,
+    "date": "2025-12-20",
+    "time": "15:00",
+    "homeTeam": "Bologna",
+    "awayTeam": "Inter",
+    "stadium": "Stadio Renato Dall'Ara",
+    "city": "Bologna"
+  },
+  {
+    "id": "2025-26-G16-GEN-NAP",
+    "matchday": 16,
+    "date": "2025-12-20",
+    "time": "18:00",
+    "homeTeam": "Genoa",
+    "awayTeam": "Napoli",
+    "stadium": "Stadio Luigi Ferraris",
+    "city": "Genova"
+  },
+  {
+    "id": "2025-26-G16-MIL-PIS",
+    "matchday": 16,
+    "date": "2025-12-20",
+    "time": "20:45",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Pisa",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G16-ATA-PAR",
+    "matchday": 16,
+    "date": "2025-12-21",
+    "time": "12:30",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Parma",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo"
+  },
+  {
+    "id": "2025-26-G16-FIO-SAS",
+    "matchday": 16,
+    "date": "2025-12-21",
+    "time": "15:00",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Sassuolo",
+    "stadium": "Stadio Artemio Franchi",
+    "city": "Firenze"
+  },
+  {
+    "id": "2025-26-G16-JUV-VER",
+    "matchday": 16,
+    "date": "2025-12-21",
+    "time": "15:00",
+    "homeTeam": "Juventus",
+    "awayTeam": "Hellas Verona",
+    "stadium": "Allianz Stadium",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G16-TOR-CAG",
+    "matchday": 16,
+    "date": "2025-12-21",
+    "time": "18:00",
+    "homeTeam": "Torino",
+    "awayTeam": "Cagliari",
+    "stadium": "Stadio Olimpico Grande Torino",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G16-LEC-ROM",
+    "matchday": 16,
+    "date": "2025-12-21",
+    "time": "20:45",
+    "homeTeam": "Lecce",
+    "awayTeam": "Roma",
+    "stadium": "Stadio Via del Mare",
+    "city": "Lecce"
+  },
+  {
+    "id": "2025-26-G16-COM-UDI",
+    "matchday": 16,
+    "date": "2025-12-22",
+    "time": "18:30",
+    "homeTeam": "Como",
+    "awayTeam": "Udinese",
+    "stadium": "Stadio Giuseppe Sinigaglia",
+    "city": "Como"
+  },
+  {
+    "id": "2025-26-G16-LAZ-CRE",
+    "matchday": 16,
+    "date": "2025-12-22",
+    "time": "20:45",
+    "homeTeam": "Lazio",
+    "awayTeam": "Cremonese",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G17-UDI-JUV",
+    "matchday": 17,
+    "date": "2025-12-27",
+    "time": "15:00",
+    "homeTeam": "Udinese",
+    "awayTeam": "Juventus",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine"
+  },
+  {
+    "id": "2025-26-G17-PAR-TOR",
+    "matchday": 17,
+    "date": "2025-12-27",
+    "time": "18:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Torino",
+    "stadium": "Stadio Ennio Tardini",
+    "city": "Parma"
+  },
+  {
+    "id": "2025-26-G17-NAP-LAZ",
+    "matchday": 17,
+    "date": "2025-12-27",
+    "time": "20:45",
+    "homeTeam": "Napoli",
+    "awayTeam": "Lazio",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli"
+  },
+  {
+    "id": "2025-26-G17-CAG-BOL",
+    "matchday": 17,
+    "date": "2025-12-28",
+    "time": "12:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Bologna",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari"
+  },
+  {
+    "id": "2025-26-G17-CRE-ATA",
+    "matchday": 17,
+    "date": "2025-12-28",
+    "time": "15:00",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Atalanta",
+    "stadium": "Stadio Giovanni Zini",
+    "city": "Cremona"
+  },
+  {
+    "id": "2025-26-G17-PIS-GEN",
+    "matchday": 17,
+    "date": "2025-12-28",
+    "time": "15:00",
+    "homeTeam": "Pisa",
+    "awayTeam": "Genoa",
+    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "city": "Pisa"
+  },
+  {
+    "id": "2025-26-G17-SAS-COM",
+    "matchday": 17,
+    "date": "2025-12-28",
+    "time": "18:00",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Como",
+    "stadium": "MAPEI Stadium - Città del Tricolore",
+    "city": "Reggio Emilia"
+  },
+  {
+    "id": "2025-26-G17-ROM-INT",
+    "matchday": 17,
+    "date": "2025-12-28",
+    "time": "20:45",
+    "homeTeam": "Roma",
+    "awayTeam": "Inter",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G17-VER-LEC",
+    "matchday": 17,
+    "date": "2025-12-29",
+    "time": "18:30",
+    "homeTeam": "Hellas Verona",
+    "awayTeam": "Lecce",
+    "stadium": "Stadio Marcantonio Bentegodi",
+    "city": "Verona"
+  },
+  {
+    "id": "2025-26-G17-MIL-FIO",
+    "matchday": 17,
+    "date": "2025-12-29",
+    "time": "20:45",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Fiorentina",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G18-INT-UDI",
+    "matchday": 18,
+    "date": "2026-01-04",
+    "time": "12:30",
+    "homeTeam": "Inter",
+    "awayTeam": "Udinese",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G18-COM-MIL",
+    "matchday": 18,
+    "date": "2026-01-04",
+    "time": "15:00",
+    "homeTeam": "Como",
+    "awayTeam": "AC Milan",
+    "stadium": "Stadio Giuseppe Sinigaglia",
+    "city": "Como"
+  },
+  {
+    "id": "2025-26-G18-TOR-PIS",
+    "matchday": 18,
+    "date": "2026-01-04",
+    "time": "15:00",
+    "homeTeam": "Torino",
+    "awayTeam": "Pisa",
+    "stadium": "Stadio Olimpico Grande Torino",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G18-LAZ-JUV",
+    "matchday": 18,
+    "date": "2026-01-04",
+    "time": "18:00",
+    "homeTeam": "Lazio",
+    "awayTeam": "Juventus",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G18-NAP-ATA",
+    "matchday": 18,
+    "date": "2026-01-04",
+    "time": "20:45",
+    "homeTeam": "Napoli",
+    "awayTeam": "Atalanta",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli"
+  },
+  {
+    "id": "2025-26-G18-CAG-VER",
+    "matchday": 18,
+    "date": "2026-01-05",
+    "time": "12:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Hellas Verona",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari"
+  },
+  {
+    "id": "2025-26-G18-FIO-PAR",
+    "matchday": 18,
+    "date": "2026-01-05",
+    "time": "15:00",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Parma",
+    "stadium": "Stadio Artemio Franchi",
+    "city": "Firenze"
+  },
+  {
+    "id": "2025-26-G18-GEN-CRE",
+    "matchday": 18,
+    "date": "2026-01-05",
+    "time": "15:00",
+    "homeTeam": "Genoa",
+    "awayTeam": "Cremonese",
+    "stadium": "Stadio Luigi Ferraris",
+    "city": "Genova"
+  },
+  {
+    "id": "2025-26-G18-ATA-BOL",
+    "matchday": 18,
+    "date": "2026-01-05",
+    "time": "18:30",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Bologna",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo"
+  },
+  {
+    "id": "2025-26-G18-LEC-SAS",
+    "matchday": 18,
+    "date": "2026-01-05",
+    "time": "20:45",
+    "homeTeam": "Lecce",
+    "awayTeam": "Sassuolo",
+    "stadium": "Stadio Via del Mare",
+    "city": "Lecce"
+  },
+  {
+    "id": "2025-26-G19-BOL-GEN",
+    "matchday": 19,
+    "date": "2026-01-06",
+    "time": "12:30",
+    "homeTeam": "Bologna",
+    "awayTeam": "Genoa",
+    "stadium": "Stadio Renato Dall'Ara",
+    "city": "Bologna"
+  },
+  {
+    "id": "2025-26-G19-MIL-ROM",
+    "matchday": 19,
+    "date": "2026-01-06",
+    "time": "15:00",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Roma",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G19-JUV-ATA",
+    "matchday": 19,
+    "date": "2026-01-06",
+    "time": "15:00",
+    "homeTeam": "Juventus",
+    "awayTeam": "Atalanta",
+    "stadium": "Allianz Stadium",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G19-NAP-CAG",
+    "matchday": 19,
+    "date": "2026-01-06",
+    "time": "15:00",
+    "homeTeam": "Napoli",
+    "awayTeam": "Cagliari",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli"
+  },
+  {
+    "id": "2025-26-G19-PAR-INT",
+    "matchday": 19,
+    "date": "2026-01-06",
+    "time": "18:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Inter",
+    "stadium": "Stadio Ennio Tardini",
+    "city": "Parma"
+  },
+  {
+    "id": "2025-26-G19-PIS-FIO",
+    "matchday": 19,
+    "date": "2026-01-06",
+    "time": "18:00",
+    "homeTeam": "Pisa",
+    "awayTeam": "Fiorentina",
+    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "city": "Pisa"
+  },
+  {
+    "id": "2025-26-G19-SAS-TOR",
+    "matchday": 19,
+    "date": "2026-01-06",
+    "time": "20:45",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Torino",
+    "stadium": "MAPEI Stadium - Città del Tricolore",
+    "city": "Reggio Emilia"
+  },
+  {
+    "id": "2025-26-G19-UDI-LAZ",
+    "matchday": 19,
+    "date": "2026-01-06",
+    "time": "20:45",
+    "homeTeam": "Udinese",
+    "awayTeam": "Lazio",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine"
+  },
+  {
+    "id": "2025-26-G19-CRE-COM",
+    "matchday": 19,
+    "date": "2026-01-06",
+    "time": "20:45",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Como",
+    "stadium": "Stadio Giovanni Zini",
+    "city": "Cremona"
+  },
+  {
+    "id": "2025-26-G19-VER-LEC",
+    "matchday": 19,
+    "date": "2025-01-06",
+    "time": "20:45",
+    "homeTeam": "Hellas Verona",
+    "awayTeam": "Lecce",
+    "stadium": "Stadio Marcantonio Bentegodi",
+    "city": "Verona"
+  },
+  {
+    "id": "2025-26-G20-MIL-INT",
+    "matchday": 20,
+    "date": "2026-01-17",
+    "time": "15:00",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Inter",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G20-GEN-CAG",
+    "matchday": 20,
+    "date": "2026-01-17",
+    "time": "18:00",
+    "homeTeam": "Genoa",
+    "awayTeam": "Cagliari",
+    "stadium": "Stadio Luigi Ferraris",
+    "city": "Genova"
+  },
+  {
+    "id": "2025-26-G20-BOL-UDI",
+    "matchday": 20,
+    "date": "2026-01-17",
+    "time": "20:45",
+    "homeTeam": "Bologna",
+    "awayTeam": "Udinese",
+    "stadium": "Stadio Renato Dall'Ara",
+    "city": "Bologna"
+  },
+  {
+    "id": "2025-26-G20-JUV-FIO",
+    "matchday": 20,
+    "date": "2026-01-18",
+    "time": "12:30",
+    "homeTeam": "Juventus",
+    "awayTeam": "Fiorentina",
+    "stadium": "Allianz Stadium",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G20-ATA-NAP",
+    "matchday": 20,
+    "date": "2026-01-18",
+    "time": "15:00",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Napoli",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo"
+  },
+  {
+    "id": "2025-26-G20-PAR-VER",
+    "matchday": 20,
+    "date": "2026-01-18",
+    "time": "15:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Hellas Verona",
+    "stadium": "Stadio Ennio Tardini",
+    "city": "Parma"
+  },
+  {
+    "id": "2025-26-G20-ROM-CRE",
+    "matchday": 20,
+    "date": "2026-01-18",
+    "time": "18:00",
+    "homeTeam": "Roma",
+    "awayTeam": "Cremonese",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G20-LEC-LAZ",
+    "matchday": 20,
+    "date": "2026-01-18",
+    "time": "20:45",
+    "homeTeam": "Lecce",
+    "awayTeam": "Lazio",
+    "stadium": "Stadio Via del Mare",
+    "city": "Lecce"
+  },
+  {
+    "id": "2025-26-G20-COM-TOR",
+    "matchday": 20,
+    "date": "2026-01-19",
+    "time": "18:30",
+    "homeTeam": "Como",
+    "awayTeam": "Torino",
+    "stadium": "Stadio Giuseppe Sinigaglia",
+    "city": "Como"
+  },
+  {
+    "id": "2025-26-G20-PIS-SAS",
+    "matchday": 20,
+    "date": "2026-01-19",
+    "time": "20:45",
+    "homeTeam": "Pisa",
+    "awayTeam": "Sassuolo",
+    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "city": "Pisa"
+  },
+  {
+    "id": "2025-26-G21-CRE-BOL",
+    "matchday": 21,
+    "date": "2026-01-24",
+    "time": "15:00",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Bologna",
+    "stadium": "Stadio Giovanni Zini",
+    "city": "Cremona"
+  },
+  {
+    "id": "2025-26-G21-NAP-ROM",
+    "matchday": 21,
+    "date": "2026-01-24",
+    "time": "18:00",
+    "homeTeam": "Napoli",
+    "awayTeam": "Roma",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli"
+  },
+  {
+    "id": "2025-26-G21-UDI-PAR",
+    "matchday": 21,
+    "date": "2026-01-24",
+    "time": "20:45",
+    "homeTeam": "Udinese",
+    "awayTeam": "Parma",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine"
+  },
+  {
+    "id": "2025-26-G21-CAG-JUV",
+    "matchday": 21,
+    "date": "2026-01-25",
+    "time": "12:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Juventus",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari"
+  },
+  {
+    "id": "2025-26-G21-INT-PIS",
+    "matchday": 21,
+    "date": "2026-01-25",
+    "time": "15:00",
+    "homeTeam": "Inter",
+    "awayTeam": "Pisa",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G21-VER-GEN",
+    "matchday": 21,
+    "date": "2026-01-25",
+    "time": "15:00",
+    "homeTeam": "Hellas Verona",
+    "awayTeam": "Genoa",
+    "stadium": "Stadio Marcantonio Bentegodi",
+    "city": "Verona"
+  },
+  {
+    "id": "2025-26-G21-FIO-ATA",
+    "matchday": 21,
+    "date": "2026-01-25",
+    "time": "18:00",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Atalanta",
+    "stadium": "Stadio Artemio Franchi",
+    "city": "Firenze"
+  },
+  {
+    "id": "2025-26-G21-LAZ-MIL",
+    "matchday": 21,
+    "date": "2026-01-25",
+    "time": "20:45",
+    "homeTeam": "Lazio",
+    "awayTeam": "AC Milan",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G21-TOR-LEC",
+    "matchday": 21,
+    "date": "2026-01-26",
+    "time": "18:30",
+    "homeTeam": "Torino",
+    "awayTeam": "Lecce",
+    "stadium": "Stadio Olimpico Grande Torino",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G21-SAS-COM",
+    "matchday": 21,
+    "date": "2026-01-26",
+    "time": "20:45",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Como",
+    "stadium": "MAPEI Stadium - Città del Tricolore",
+    "city": "Reggio Emilia"
+  },
+  {
+    "id": "2025-26-G22-JUV-MIL",
+    "matchday": 22,
+    "date": "2026-01-31",
+    "time": "15:00",
+    "homeTeam": "Juventus",
+    "awayTeam": "AC Milan",
+    "stadium": "Allianz Stadium",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G22-ROM-FIO",
+    "matchday": 22,
+    "date": "2026-01-31",
+    "time": "18:00",
+    "homeTeam": "Roma",
+    "awayTeam": "Fiorentina",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G22-UDI-INT",
+    "matchday": 22,
+    "date": "2026-01-31",
+    "time": "20:45",
+    "homeTeam": "Udinese",
+    "awayTeam": "Inter",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine"
+  },
+  {
+    "id": "2025-26-G22-CAG-VER",
+    "matchday": 22,
+    "date": "2026-02-01",
+    "time": "12:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Hellas Verona",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari"
+  },
+  {
+    "id": "2025-26-G22-COM-ATA",
+    "matchday": 22,
+    "date": "2026-02-01",
+    "time": "15:00",
+    "homeTeam": "Como",
+    "awayTeam": "Atalanta",
+    "stadium": "Stadio Giuseppe Sinigaglia",
+    "city": "Como"
+  },
+  {
+    "id": "2025-26-G22-GEN-CRE",
+    "matchday": 22,
+    "date": "2026-02-01",
+    "time": "15:00",
+    "homeTeam": "Genoa",
+    "awayTeam": "Cremonese",
+    "stadium": "Stadio Luigi Ferraris",
+    "city": "Genova"
+  },
+  {
+    "id": "2025-26-G22-PAR-BOL",
+    "matchday": 22,
+    "date": "2026-02-01",
+    "time": "18:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Bologna",
+    "stadium": "Stadio Ennio Tardini",
+    "city": "Parma"
+  },
+  {
+    "id": "2025-26-G22-PIS-NAP",
+    "matchday": 22,
+    "date": "2026-02-01",
+    "time": "20:45",
+    "homeTeam": "Pisa",
+    "awayTeam": "Napoli",
+    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "city": "Pisa"
+  },
+  {
+    "id": "2025-26-G22-LAZ-SAS",
+    "matchday": 22,
+    "date": "2026-02-02",
+    "time": "18:30",
+    "homeTeam": "Lazio",
+    "awayTeam": "Sassuolo",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G22-TOR-LEC",
+    "matchday": 22,
+    "date": "2026-02-02",
+    "time": "20:45",
+    "homeTeam": "Torino",
+    "awayTeam": "Lecce",
+    "stadium": "Stadio Olimpico Grande Torino",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G23-MIL-JUV",
+    "matchday": 23,
+    "date": "2026-02-07",
+    "time": "15:00",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Juventus",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G23-INT-UDI",
+    "matchday": 23,
+    "date": "2026-02-07",
+    "time": "18:00",
+    "homeTeam": "Inter",
+    "awayTeam": "Udinese",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G23-NAP-PIS",
+    "matchday": 23,
+    "date": "2026-02-07",
+    "time": "20:45",
+    "homeTeam": "Napoli",
+    "awayTeam": "Pisa",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli"
+  },
+  {
+    "id": "2025-26-G23-FIO-ROM",
+    "matchday": 23,
+    "date": "2026-02-08",
+    "time": "12:30",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Roma",
+    "stadium": "Stadio Artemio Franchi",
+    "city": "Firenze"
+  },
+  {
+    "id": "2025-26-G23-ATA-COM",
+    "matchday": 23,
+    "date": "2026-02-08",
+    "time": "15:00",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Como",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo"
+  },
+  {
+    "id": "2025-26-G23-BOL-PAR",
+    "matchday": 23,
+    "date": "2026-02-08",
+    "time": "15:00",
+    "homeTeam": "Bologna",
+    "awayTeam": "Parma",
+    "stadium": "Stadio Renato Dall'Ara",
+    "city": "Bologna"
+  },
+  {
+    "id": "2025-26-G23-CRE-GEN",
+    "matchday": 23,
+    "date": "2026-02-08",
+    "time": "18:00",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Genoa",
+    "stadium": "Stadio Giovanni Zini",
+    "city": "Cremona"
+  },
+  {
+    "id": "2025-26-G23-VER-CAG",
+    "matchday": 23,
+    "date": "2026-02-08",
+    "time": "20:45",
+    "homeTeam": "Hellas Verona",
+    "awayTeam": "Cagliari",
+    "stadium": "Stadio Marcantonio Bentegodi",
+    "city": "Verona"
+  },
+  {
+    "id": "2025-26-G23-LEC-LAZ",
+    "matchday": 23,
+    "date": "2026-02-09",
+    "time": "18:30",
+    "homeTeam": "Lecce",
+    "awayTeam": "Lazio",
+    "stadium": "Stadio Via del Mare",
+    "city": "Lecce"
+  },
+  {
+    "id": "2025-26-G23-SAS-TOR",
+    "matchday": 23,
+    "date": "2026-02-09",
+    "time": "20:45",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Torino",
+    "stadium": "MAPEI Stadium - Città del Tricolore",
+    "city": "Reggio Emilia"
+  },
+  {
+    "id": "2025-26-G24-JUV-SAS",
+    "matchday": 24,
+    "date": "2026-02-14",
+    "time": "15:00",
+    "homeTeam": "Juventus",
+    "awayTeam": "Sassuolo",
+    "stadium": "Allianz Stadium",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G24-ROM-MIL",
+    "matchday": 24,
+    "date": "2026-02-14",
+    "time": "18:00",
+    "homeTeam": "Roma",
+    "awayTeam": "AC Milan",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G24-UDI-CAG",
+    "matchday": 24,
+    "date": "2026-02-14",
+    "time": "20:45",
+    "homeTeam": "Udinese",
+    "awayTeam": "Cagliari",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine"
+  },
+  {
+    "id": "2025-26-G24-CAG-JUV",
+    "matchday": 24,
+    "date": "2026-02-15",
+    "time": "12:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Juventus",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari"
+  },
+  {
+    "id": "2025-26-G24-ATA-GEN",
+    "matchday": 24,
+    "date": "2026-02-15",
+    "time": "15:00",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Genoa",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo"
+  },
+  {
+    "id": "2025-26-G24-PAR-FIO",
+    "matchday": 24,
+    "date": "2026-02-15",
+    "time": "15:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Fiorentina",
+    "stadium": "Stadio Ennio Tardini",
+    "city": "Parma"
+  },
+  {
+    "id": "2025-26-G24-PIS-CRE",
+    "matchday": 24,
+    "date": "2026-02-15",
+    "time": "18:00",
+    "homeTeam": "Pisa",
+    "awayTeam": "Cremonese",
+    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "city": "Pisa"
+  },
+  {
+    "id": "2025-26-G24-TOR-LAZ",
+    "matchday": 24,
+    "date": "2026-02-15",
+    "time": "20:45",
+    "homeTeam": "Torino",
+    "awayTeam": "Lazio",
+    "stadium": "Stadio Olimpico Grande Torino",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G24-COM-NAP",
+    "matchday": 24,
+    "date": "2026-02-16",
+    "time": "18:30",
+    "homeTeam": "Como",
+    "awayTeam": "Napoli",
+    "stadium": "Stadio Giuseppe Sinigaglia",
+    "city": "Como"
+  },
+  {
+    "id": "2025-26-G24-LEC-INT",
+    "matchday": 24,
+    "date": "2026-02-16",
+    "time": "20:45",
+    "homeTeam": "Lecce",
+    "awayTeam": "Inter",
+    "stadium": "Stadio Via del Mare",
+    "city": "Lecce"
+  },
+  {
+    "id": "2025-26-G25-MIL-PIS",
+    "matchday": 25,
+    "date": "2026-02-21",
+    "time": "15:00",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Pisa",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G25-INT-TOR",
+    "matchday": 25,
+    "date": "2026-02-21",
+    "time": "18:00",
+    "homeTeam": "Inter",
+    "awayTeam": "Torino",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G25-NAP-JUV",
+    "matchday": 25,
+    "date": "2026-02-21",
+    "time": "20:45",
+    "homeTeam": "Napoli",
+    "awayTeam": "Juventus",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli"
+  },
+  {
+    "id": "2025-26-G25-FIO-COM",
+    "matchday": 25,
+    "date": "2026-02-22",
+    "time": "12:30",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Como",
+    "stadium": "Stadio Artemio Franchi",
+    "city": "Firenze"
+  },
+  {
+    "id": "2025-26-G25-GEN-UDI",
+    "matchday": 25,
+    "date": "2026-02-22",
+    "time": "15:00",
+    "homeTeam": "Genoa",
+    "awayTeam": "Udinese",
+    "stadium": "Stadio Luigi Ferraris",
+    "city": "Genova"
+  },
+  {
+    "id": "2025-26-G25-LAZ-ATA",
+    "matchday": 25,
+    "date": "2026-02-22",
+    "time": "15:00",
+    "homeTeam": "Lazio",
+    "awayTeam": "Atalanta",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G25-SAS-BOL",
+    "matchday": 25,
+    "date": "2026-02-22",
+    "time": "18:00",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Bologna",
+    "stadium": "MAPEI Stadium - Città del Tricolore",
+    "city": "Reggio Emilia"
+  },
+  {
+    "id": "2025-26-G25-CAG-LEC",
+    "matchday": 25,
+    "date": "2026-02-22",
+    "time": "20:45",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Lecce",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari"
+  },
+  {
+    "id": "2025-26-G25-CRE-VER",
+    "matchday": 25,
+    "date": "2026-02-23",
+    "time": "18:30",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Hellas Verona",
+    "stadium": "Stadio Giovanni Zini",
+    "city": "Cremona"
+  },
+  {
+    "id": "2025-26-G25-ROM-PAR",
+    "matchday": 25,
+    "date": "2026-02-23",
+    "time": "20:45",
+    "homeTeam": "Roma",
+    "awayTeam": "Parma",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G26-JUV-CRE",
+    "matchday": 26,
+    "date": "2026-02-28",
+    "time": "15:00",
+    "homeTeam": "Juventus",
+    "awayTeam": "Cremonese",
+    "stadium": "Allianz Stadium",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G26-UDI-FIO",
+    "matchday": 26,
+    "date": "2026-02-28",
+    "time": "18:00",
+    "homeTeam": "Udinese",
+    "awayTeam": "Fiorentina",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine"
+  },
+  {
+    "id": "2025-26-G26-BOL-NAP",
+    "matchday": 26,
+    "date": "2026-02-28",
+    "time": "20:45",
+    "homeTeam": "Bologna",
+    "awayTeam": "Napoli",
+    "stadium": "Stadio Renato Dall'Ara",
+    "city": "Bologna"
+  },
+  {
+    "id": "2025-26-G26-MIL-CAG",
+    "matchday": 26,
+    "date": "2026-03-01",
+    "time": "12:30",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Cagliari",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G26-ATA-PIS",
+    "matchday": 26,
+    "date": "2026-03-01",
+    "time": "15:00",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Pisa",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo"
+  },
+  {
+    "id": "2025-26-G26-VER-INT",
+    "matchday": 26,
+    "date": "2026-03-01",
+    "time": "15:00",
+    "homeTeam": "Hellas Verona",
+    "awayTeam": "Inter",
+    "stadium": "Stadio Marcantonio Bentegodi",
+    "city": "Verona"
+  },
+  {
+    "id": "2025-26-G26-PAR-COM",
+    "matchday": 26,
+    "date": "2026-03-01",
+    "time": "18:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Como",
+    "stadium": "Stadio Ennio Tardini",
+    "city": "Parma"
+  },
+  {
+    "id": "2025-26-G26-TOR-GEN",
+    "matchday": 26,
+    "date": "2026-03-01",
+    "time": "20:45",
+    "homeTeam": "Torino",
+    "awayTeam": "Genoa",
+    "stadium": "Stadio Olimpico Grande Torino",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G26-LEC-SAS",
+    "matchday": 26,
+    "date": "2026-03-02",
+    "time": "18:30",
+    "homeTeam": "Lecce",
+    "awayTeam": "Sassuolo",
+    "stadium": "Stadio Via del Mare",
+    "city": "Lecce"
+  },
+  {
+    "id": "2025-26-G26-ROM-LAZ",
+    "matchday": 26,
+    "date": "2026-03-02",
+    "time": "20:45",
+    "homeTeam": "Roma",
+    "awayTeam": "Lazio",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G27-INT-JUV",
+    "matchday": 27,
+    "date": "2026-03-07",
+    "time": "15:00",
+    "homeTeam": "Inter",
+    "awayTeam": "Juventus",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G27-NAP-VER",
+    "matchday": 27,
+    "date": "2026-03-07",
+    "time": "18:00",
+    "homeTeam": "Napoli",
+    "awayTeam": "Hellas Verona",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli"
+  },
+  {
+    "id": "2025-26-G27-FIO-TOR",
+    "matchday": 27,
+    "date": "2026-03-07",
+    "time": "20:45",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Torino",
+    "stadium": "Stadio Artemio Franchi",
+    "city": "Firenze"
+  },
+  {
+    "id": "2025-26-G27-CAG-PAR",
+    "matchday": 27,
+    "date": "2026-03-08",
+    "time": "12:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Parma",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari"
+  },
+  {
+    "id": "2025-26-G27-COM-UDI",
+    "matchday": 27,
+    "date": "2026-03-08",
+    "time": "15:00",
+    "homeTeam": "Como",
+    "awayTeam": "Udinese",
+    "stadium": "Stadio Giuseppe Sinigaglia",
+    "city": "Como"
+  },
+  {
+    "id": "2025-26-G27-GEN-MIL",
+    "matchday": 27,
+    "date": "2026-03-08",
+    "time": "15:00",
+    "homeTeam": "Genoa",
+    "awayTeam": "AC Milan",
+    "stadium": "Stadio Luigi Ferraris",
+    "city": "Genova"
+  },
+  {
+    "id": "2025-26-G27-PIS-BOL",
+    "matchday": 27,
+    "date": "2026-03-08",
+    "time": "18:00",
+    "homeTeam": "Pisa",
+    "awayTeam": "Bologna",
+    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "city": "Pisa"
+  },
+  {
+    "id": "2025-26-G27-SAS-ROM",
+    "matchday": 27,
+    "date": "2026-03-08",
+    "time": "20:45",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Roma",
+    "stadium": "MAPEI Stadium - Città del Tricolore",
+    "city": "Reggio Emilia"
+  },
+  {
+    "id": "2025-26-G27-CRE-ATA",
+    "matchday": 27,
+    "date": "2026-03-09",
+    "time": "18:30",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Atalanta",
+    "stadium": "Stadio Giovanni Zini",
+    "city": "Cremona"
+  },
+  {
+    "id": "2025-26-G27-LAZ-LEC",
+    "matchday": 27,
+    "date": "2026-03-09",
+    "time": "20:45",
+    "homeTeam": "Lazio",
+    "awayTeam": "Lecce",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G28-MIL-NAP",
+    "matchday": 28,
+    "date": "2026-03-14",
+    "time": "15:00",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Napoli",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G28-JUV-PIS",
+    "matchday": 28,
+    "date": "2026-03-14",
+    "time": "18:00",
+    "homeTeam": "Juventus",
+    "awayTeam": "Pisa",
+    "stadium": "Allianz Stadium",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G28-ROM-CAG",
+    "matchday": 28,
+    "date": "2026-03-14",
+    "time": "20:45",
+    "homeTeam": "Roma",
+    "awayTeam": "Cagliari",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G28-BOL-FIO",
+    "matchday": 28,
+    "date": "2026-03-15",
+    "time": "12:30",
+    "homeTeam": "Bologna",
+    "awayTeam": "Fiorentina",
+    "stadium": "Stadio Renato Dall'Ara",
+    "city": "Bologna"
+  },
+  {
+    "id": "2025-26-G28-UDI-CRE",
+    "matchday": 28,
+    "date": "2026-03-15",
+    "time": "15:00",
+    "homeTeam": "Udinese",
+    "awayTeam": "Cremonese",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine"
+  },
+  {
+    "id": "2025-26-G28-VER-COM",
+    "matchday": 28,
+    "date": "2026-03-15",
+    "time": "15:00",
+    "homeTeam": "Hellas Verona",
+    "awayTeam": "Como",
+    "stadium": "Stadio Marcantonio Bentegodi",
+    "city": "Verona"
+  },
+  {
+    "id": "2025-26-G28-ATA-SAS",
+    "matchday": 28,
+    "date": "2026-03-15",
+    "time": "18:00",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Sassuolo",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo"
+  },
+  {
+    "id": "2025-26-G28-GEN-LAZ",
+    "matchday": 28,
+    "date": "2026-03-15",
+    "time": "20:45",
+    "homeTeam": "Genoa",
+    "awayTeam": "Lazio",
+    "stadium": "Stadio Luigi Ferraris",
+    "city": "Genova"
+  },
+  {
+    "id": "2025-26-G28-TOR-PAR",
+    "matchday": 28,
+    "date": "2026-03-16",
+    "time": "18:30",
+    "homeTeam": "Torino",
+    "awayTeam": "Parma",
+    "stadium": "Stadio Olimpico Grande Torino",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G28-LEC-INT",
+    "matchday": 28,
+    "date": "2026-03-16",
+    "time": "20:45",
+    "homeTeam": "Lecce",
+    "awayTeam": "Inter",
+    "stadium": "Stadio Via del Mare",
+    "city": "Lecce"
+  },
+  {
+    "id": "2025-26-G29-INT-ATA",
+    "matchday": 29,
+    "date": "2026-03-21",
+    "time": "15:00",
+    "homeTeam": "Inter",
+    "awayTeam": "Atalanta",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G29-NAP-GEN",
+    "matchday": 29,
+    "date": "2026-03-21",
+    "time": "18:00",
+    "homeTeam": "Napoli",
+    "awayTeam": "Genoa",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli"
+  },
+  {
+    "id": "2025-26-G29-FIO-LAZ",
+    "matchday": 29,
+    "date": "2026-03-21",
+    "time": "20:45",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Lazio",
+    "stadium": "Stadio Artemio Franchi",
+    "city": "Firenze"
+  },
+  {
+    "id": "2025-26-G29-CAG-PIS",
+    "matchday": 29,
+    "date": "2026-03-22",
+    "time": "12:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Pisa",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari"
+  },
+  {
+    "id": "2025-26-G29-COM-JUV",
+    "matchday": 29,
+    "date": "2026-03-22",
+    "time": "15:00",
+    "homeTeam": "Como",
+    "awayTeam": "Juventus",
+    "stadium": "Stadio Giuseppe Sinigaglia",
+    "city": "Como"
+  },
+  {
+    "id": "2025-26-G29-CRE-TOR",
+    "matchday": 29,
+    "date": "2026-03-22",
+    "time": "15:00",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Torino",
+    "stadium": "Stadio Giovanni Zini",
+    "city": "Cremona"
+  },
+  {
+    "id": "2025-26-G29-PAR-VER",
+    "matchday": 29,
+    "date": "2026-03-22",
+    "time": "18:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Hellas Verona",
+    "stadium": "Stadio Ennio Tardini",
+    "city": "Parma"
+  },
+  {
+    "id": "2025-26-G29-SAS-UDI",
+    "matchday": 29,
+    "date": "2026-03-22",
+    "time": "20:45",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Udinese",
+    "stadium": "MAPEI Stadium - Città del Tricolore",
+    "city": "Reggio Emilia"
+  },
+  {
+    "id": "2025-26-G29-LEC-BOL",
+    "matchday": 29,
+    "date": "2026-03-23",
+    "time": "18:30",
+    "homeTeam": "Lecce",
+    "awayTeam": "Bologna",
+    "stadium": "Stadio Via del Mare",
+    "city": "Lecce"
+  },
+  {
+    "id": "2025-26-G29-ROM-MIL",
+    "matchday": 29,
+    "date": "2026-03-23",
+    "time": "20:45",
+    "homeTeam": "Roma",
+    "awayTeam": "AC Milan",
+    "stadium": "Stadio Olimpico",
+    "city": "Roma"
+  },
+  {
+    "id": "2025-26-G30-MIL-FIO",
+    "matchday": 30,
+    "date": "2026-03-28",
+    "time": "15:00",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Fiorentina",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G30-JUV-GEN",
+    "matchday": 30,
+    "date": "2026-03-28",
+    "time": "18:00",
+    "homeTeam": "Juventus",
+    "awayTeam": "Genoa",
+    "stadium": "Allianz Stadium",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G30-INT-SAS",
+    "matchday": 30,
+    "date": "2026-03-28",
+    "time": "20:45",
+    "homeTeam": "Inter",
+    "awayTeam": "Sassuolo",
+    "stadium": "Stadio Giuseppe Meazza",
+    "city": "Milano"
+  },
+  {
+    "id": "2025-26-G30-CAG-CRE",
+    "matchday": 30,
+    "date": "2026-03-29",
+    "time": "12:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Cremonese",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari"
+  },
+  {
+    "id": "2025-26-G30-ATA-COM",
+    "matchday": 30,
+    "date": "2026-03-29",
+    "time": "15:00",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Como",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo"
+  },
+  {
+    "id": "2025-26-G30-BOL-VER",
+    "matchday": 30,
+    "date": "2026-03-29",
+    "time": "15:00",
+    "homeTeam": "Bologna",
+    "awayTeam": "Hellas Verona",
+    "stadium": "Stadio Renato Dall'Ara",
+    "city": "Bologna"
+  },
+  {
+    "id": "2025-26-G30-NAP-LAZ",
+    "matchday": 30,
+    "date": "2026-03-29",
+    "time": "18:00",
+    "homeTeam": "Napoli",
+    "awayTeam": "Lazio",
+    "stadium": "Stadio Diego Armando Maradona",
+    "city": "Napoli"
+  },
+  {
+    "id": "2025-26-G30-PIS-UDI",
+    "matchday": 30,
+    "date": "2026-03-29",
+    "time": "20:45",
+    "homeTeam": "Pisa",
+    "awayTeam": "Udinese",
+    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "city": "Pisa"
+  },
+  {
+    "id": "2025-26-G30-TOR-ROM",
+    "matchday": 30,
+    "date": "2026-03-30",
+    "time": "18:30",
+    "homeTeam": "Torino",
+    "awayTeam": "Roma",
+    "stadium": "Stadio Olimpico Grande Torino",
+    "city": "Torino"
+  },
+  {
+    "id": "2025-26-G30-LEC-PAR",
+    "matchday": 30,
+    "date": "2026-03-30",
+    "time": "20:45",
+    "homeTeam": "Lecce",
+    "awayTeam": "Parma",
+    "stadium": "Stadio Via del Mare",
+    "city": "Lecce"
+  }
+]

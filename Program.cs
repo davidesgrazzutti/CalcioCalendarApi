@@ -61,15 +61,37 @@ else
 // ENDPOINTS
 // ----------------------------
 
-// tutte le partite
+// tutte le partite (calendario + risultati se presenti)
 app.MapGet("/api/fixtures", () =>
     Results.Ok(fixtures));
 
-// solo una giornata (es: /api/fixtures/12)
+// partite di una singola giornata (es: /api/fixtures/12)
 app.MapGet("/api/fixtures/{matchday:int}", (int matchday) =>
 {
     var result = fixtures.Where(f => f.Matchday == matchday).ToList();
     return result.Count == 0 ? Results.NotFound() : Results.Ok(result);
+});
+
+// solo partite con risultato (gol valorizzati)
+app.MapGet("/api/results", () =>
+{
+    var results = fixtures
+        .Where(f => f.HomeGoals.HasValue && f.AwayGoals.HasValue)
+        .ToList();
+
+    return Results.Ok(results);
+});
+
+// risultati di una singola giornata
+app.MapGet("/api/results/{matchday:int}", (int matchday) =>
+{
+    var results = fixtures
+        .Where(f => f.Matchday == matchday &&
+                    f.HomeGoals.HasValue &&
+                    f.AwayGoals.HasValue)
+        .ToList();
+
+    return results.Count == 0 ? Results.NotFound() : Results.Ok(results);
 });
 
 app.Run();

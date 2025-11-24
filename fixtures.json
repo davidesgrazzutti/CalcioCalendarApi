@@ -1,5 +1,1435 @@
 [
   {
+    "id": "2025-26-G1-GEN-LEC",
+    "matchday": 1,
+    "date": "2025-08-23",
+    "time": "18:30",
+    "homeTeam": "Genoa",
+    "awayTeam": "Lecce",
+    "stadium": "Luigi Ferraris",
+    "city": "Genova",
+    "HomeGoals": 0,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G1-SAS-NAP",
+    "matchday": 1,
+    "date": "2025-08-23",
+    "time": "20:45",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Napoli",
+    "stadium": "Mapei Stadium",
+    "city": "Reggio Emilia",
+    "HomeGoals": 0,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G1-MIL-CRE",
+    "matchday": 1,
+    "date": "2025-08-24",
+    "time": "12:30",
+    "homeTeam": "Milan",
+    "awayTeam": "Cremonese",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 1,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G1-CAG-FIO",
+    "matchday": 1,
+    "date": "2025-08-24",
+    "time": "15:00",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Fiorentina",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G1-COM-LAZ",
+    "matchday": 1,
+    "date": "2025-08-24",
+    "time": "15:00",
+    "homeTeam": "Como",
+    "awayTeam": "Lazio",
+    "stadium": "Giuseppe Sinigaglia",
+    "city": "Como",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G1-ATA-PIS",
+    "matchday": 1,
+    "date": "2025-08-24",
+    "time": "15:00",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Pisa",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G1-JUV-PAR",
+    "matchday": 1,
+    "date": "2025-08-24",
+    "time": "18:30",
+    "homeTeam": "Juventus",
+    "awayTeam": "Parma",
+    "stadium": "Allianz Stadium",
+    "city": "Torino",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G1-ROM-BOL",
+    "matchday": 1,
+    "date": "2025-08-24",
+    "time": "20:45",
+    "homeTeam": "Roma",
+    "awayTeam": "Bologna",
+    "stadium": "Olimpico",
+    "city": "Roma",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G1-UDI-VER",
+    "matchday": 1,
+    "date": "2025-08-25",
+    "time": "18:30",
+    "homeTeam": "Udinese",
+    "awayTeam": "Verona",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G1-INT-TOR",
+    "matchday": 1,
+    "date": "2025-08-25",
+    "time": "20:45",
+    "homeTeam": "Inter",
+    "awayTeam": "Torino",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 5,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G2-NAP-CRE",
+    "matchday": 2,
+    "date": "2025-08-30",
+    "time": "18:30",
+    "homeTeam": "Napoli",
+    "awayTeam": "Cremonese",
+    "stadium": "Diego Armando Maradona",
+    "city": "Napoli",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G2-LEC-INT",
+    "matchday": 2,
+    "date": "2025-08-30",
+    "time": "20:45",
+    "homeTeam": "Lecce",
+    "awayTeam": "Inter",
+    "stadium": "Via del Mare",
+    "city": "Lecce",
+    "HomeGoals": 0,
+    "AwayGoals": 3,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G2-FIO-SAS",
+    "matchday": 2,
+    "date": "2025-08-31",
+    "time": "18:30",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Sassuolo",
+    "stadium": "Artemio Franchi",
+    "city": "Firenze",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G2-VER-GEN",
+    "matchday": 2,
+    "date": "2025-08-31",
+    "time": "20:45",
+    "homeTeam": "Verona",
+    "awayTeam": "Genoa",
+    "stadium": "Marcantonio Bentegodi",
+    "city": "Verona",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G2-PAR-COM",
+    "matchday": 2,
+    "date": "2025-08-31",
+    "time": "15:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Como",
+    "stadium": "Ennio Tardini",
+    "city": "Parma",
+    "HomeGoals": 1,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G2-BOL-ATA",
+    "matchday": 2,
+    "date": "2025-08-31",
+    "time": "15:00",
+    "homeTeam": "Bologna",
+    "awayTeam": "Atalanta",
+    "stadium": "Renato Dall'Ara",
+    "city": "Bologna",
+    "HomeGoals": 2,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G2-TOR-CAG",
+    "matchday": 2,
+    "date": "2025-08-31",
+    "time": "15:00",
+    "homeTeam": "Torino",
+    "awayTeam": "Cagliari",
+    "stadium": "Olimpico Grande Torino",
+    "city": "Torino",
+    "HomeGoals": 0,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G2-MIL-JUV",
+    "matchday": 2,
+    "date": "2025-08-31",
+    "time": "15:00",
+    "homeTeam": "Milan",
+    "awayTeam": "Juventus",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G2-PIS-UDI",
+    "matchday": 2,
+    "date": "2025-09-01",
+    "time": "18:30",
+    "homeTeam": "Pisa",
+    "awayTeam": "Udinese",
+    "stadium": "Arena Garibaldi",
+    "city": "Pisa",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G2-LAZ-ROM",
+    "matchday": 2,
+    "date": "2025-09-01",
+    "time": "20:45",
+    "homeTeam": "Lazio",
+    "awayTeam": "Roma",
+    "stadium": "Olimpico",
+    "city": "Roma",
+    "HomeGoals": 0,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G3-INT-PAR",
+    "matchday": 3,
+    "date": "2025-09-13",
+    "time": "18:30",
+    "homeTeam": "Inter",
+    "awayTeam": "Parma",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G3-NAP-JUV",
+    "matchday": 3,
+    "date": "2025-09-13",
+    "time": "20:45",
+    "homeTeam": "Napoli",
+    "awayTeam": "Juventus",
+    "stadium": "Diego Armando Maradona",
+    "city": "Napoli",
+    "HomeGoals": 1,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G3-ATA-FIO",
+    "matchday": 3,
+    "date": "2025-09-14",
+    "time": "12:30",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Fiorentina",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo",
+    "HomeGoals": 0,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G3-CRE-BOL",
+    "matchday": 3,
+    "date": "2025-09-14",
+    "time": "15:00",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Bologna",
+    "stadium": "Giovanni Zini",
+    "city": "Cremona",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G3-COM-SAS",
+    "matchday": 3,
+    "date": "2025-09-14",
+    "time": "15:00",
+    "homeTeam": "Como",
+    "awayTeam": "Sassuolo",
+    "stadium": "Giuseppe Sinigaglia",
+    "city": "Como",
+    "HomeGoals": 2,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G3-GEN-TOR",
+    "matchday": 3,
+    "date": "2025-09-14",
+    "time": "15:00",
+    "homeTeam": "Genoa",
+    "awayTeam": "Torino",
+    "stadium": "Luigi Ferraris",
+    "city": "Genova",
+    "HomeGoals": 0,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G3-UDI-CAG",
+    "matchday": 3,
+    "date": "2025-09-14",
+    "time": "18:30",
+    "homeTeam": "Udinese",
+    "awayTeam": "Cagliari",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G3-ROM-PIS",
+    "matchday": 3,
+    "date": "2025-09-14",
+    "time": "20:45",
+    "homeTeam": "Roma",
+    "awayTeam": "Pisa",
+    "stadium": "Olimpico",
+    "city": "Roma",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G3-LEC-VER",
+    "matchday": 3,
+    "date": "2025-09-15",
+    "time": "18:30",
+    "homeTeam": "Lecce",
+    "awayTeam": "Verona",
+    "stadium": "Via del Mare",
+    "city": "Lecce",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G3-MIL-LAZ",
+    "matchday": 3,
+    "date": "2025-09-15",
+    "time": "20:45",
+    "homeTeam": "Milan",
+    "awayTeam": "Lazio",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 2,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G4-JUV-ATA",
+    "matchday": 4,
+    "date": "2025-09-20",
+    "time": "18:30",
+    "homeTeam": "Juventus",
+    "awayTeam": "Atalanta",
+    "stadium": "Allianz Stadium",
+    "city": "Torino",
+    "HomeGoals": 2,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G4-LAZ-NAP",
+    "matchday": 4,
+    "date": "2025-09-20",
+    "time": "20:45",
+    "homeTeam": "Lazio",
+    "awayTeam": "Napoli",
+    "stadium": "Olimpico",
+    "city": "Roma",
+    "HomeGoals": 0,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G4-CAG-COM",
+    "matchday": 4,
+    "date": "2025-09-21",
+    "time": "12:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Como",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G4-BOL-UDI",
+    "matchday": 4,
+    "date": "2025-09-21",
+    "time": "15:00",
+    "homeTeam": "Bologna",
+    "awayTeam": "Udinese",
+    "stadium": "Renato Dall'Ara",
+    "city": "Bologna",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G4-PAR-GEN",
+    "matchday": 4,
+    "date": "2025-09-21",
+    "time": "15:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Genoa",
+    "stadium": "Ennio Tardini",
+    "city": "Parma",
+    "HomeGoals": 0,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G4-PIS-MIL",
+    "matchday": 4,
+    "date": "2025-09-21",
+    "time": "15:00",
+    "homeTeam": "Pisa",
+    "awayTeam": "Milan",
+    "stadium": "Arena Garibaldi",
+    "city": "Pisa",
+    "HomeGoals": 0,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G4-SAS-LEC",
+    "matchday": 4,
+    "date": "2025-09-21",
+    "time": "18:30",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Lecce",
+    "stadium": "Mapei Stadium",
+    "city": "Reggio Emilia",
+    "HomeGoals": 3,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G4-TOR-ROM",
+    "matchday": 4,
+    "date": "2025-09-21",
+    "time": "20:45",
+    "homeTeam": "Torino",
+    "awayTeam": "Roma",
+    "stadium": "Olimpico Grande Torino",
+    "city": "Torino",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G4-VER-CRE",
+    "matchday": 4,
+    "date": "2025-09-22",
+    "time": "18:30",
+    "homeTeam": "Verona",
+    "awayTeam": "Cremonese",
+    "stadium": "Marcantonio Bentegodi",
+    "city": "Verona",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G4-FIO-INT",
+    "matchday": 4,
+    "date": "2025-09-22",
+    "time": "20:45",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Inter",
+    "stadium": "Artemio Franchi",
+    "city": "Firenze",
+    "HomeGoals": 0,
+    "AwayGoals": 3,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G5-ATA-CAG",
+    "matchday": 5,
+    "date": "2025-09-27",
+    "time": "18:30",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Cagliari",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G5-CRE-PIS",
+    "matchday": 5,
+    "date": "2025-09-27",
+    "time": "20:45",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Pisa",
+    "stadium": "Giovanni Zini",
+    "city": "Cremona",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G5-COM-FIO",
+    "matchday": 5,
+    "date": "2025-09-28",
+    "time": "12:30",
+    "homeTeam": "Como",
+    "awayTeam": "Fiorentina",
+    "stadium": "Giuseppe Sinigaglia",
+    "city": "Como",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G5-GEN-JUV",
+    "matchday": 5,
+    "date": "2025-09-28",
+    "time": "15:00",
+    "homeTeam": "Genoa",
+    "awayTeam": "Juventus",
+    "stadium": "Luigi Ferraris",
+    "city": "Genova",
+    "HomeGoals": 0,
+    "AwayGoals": 3,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G5-INT-VER",
+    "matchday": 5,
+    "date": "2025-09-28",
+    "time": "15:00",
+    "homeTeam": "Inter",
+    "awayTeam": "Verona",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 4,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G5-PAR-BOL",
+    "matchday": 5,
+    "date": "2025-09-28",
+    "time": "15:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Bologna",
+    "stadium": "Ennio Tardini",
+    "city": "Parma",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G5-UDI-LAZ",
+    "matchday": 5,
+    "date": "2025-09-28",
+    "time": "18:30",
+    "homeTeam": "Udinese",
+    "awayTeam": "Lazio",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine",
+    "HomeGoals": 0,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G5-MIL-SAS",
+    "matchday": 5,
+    "date": "2025-09-28",
+    "time": "20:45",
+    "homeTeam": "Milan",
+    "awayTeam": "Sassuolo",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G5-LEC-ROM",
+    "matchday": 5,
+    "date": "2025-09-29",
+    "time": "18:30",
+    "homeTeam": "Lecce",
+    "awayTeam": "Roma",
+    "stadium": "Via del Mare",
+    "city": "Lecce",
+    "HomeGoals": 0,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G5-TOR-NAP",
+    "matchday": 5,
+    "date": "2025-09-29",
+    "time": "20:45",
+    "homeTeam": "Torino",
+    "awayTeam": "Napoli",
+    "stadium": "Olimpico Grande Torino",
+    "city": "Torino",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G6-BOL-COM",
+    "matchday": 6,
+    "date": "2025-10-04",
+    "time": "18:30",
+    "homeTeam": "Bologna",
+    "awayTeam": "Como",
+    "stadium": "Renato Dall'Ara",
+    "city": "Bologna",
+    "HomeGoals": 2,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G6-NAP-FIO",
+    "matchday": 6,
+    "date": "2025-10-04",
+    "time": "20:45",
+    "homeTeam": "Napoli",
+    "awayTeam": "Fiorentina",
+    "stadium": "Diego Armando Maradona",
+    "city": "Napoli",
+    "HomeGoals": 3,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G6-CAG-PAR",
+    "matchday": 6,
+    "date": "2025-10-05",
+    "time": "12:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Parma",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari",
+    "HomeGoals": 2,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G6-PIS-GEN",
+    "matchday": 6,
+    "date": "2025-10-05",
+    "time": "15:00",
+    "homeTeam": "Pisa",
+    "awayTeam": "Genoa",
+    "stadium": "Arena Garibaldi",
+    "city": "Pisa",
+    "HomeGoals": 0,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G6-ROM-ATA",
+    "matchday": 6,
+    "date": "2025-10-05",
+    "time": "15:00",
+    "homeTeam": "Roma",
+    "awayTeam": "Atalanta",
+    "stadium": "Olimpico",
+    "city": "Roma",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G6-VER-JUV",
+    "matchday": 6,
+    "date": "2025-10-05",
+    "time": "15:00",
+    "homeTeam": "Verona",
+    "awayTeam": "Juventus",
+    "stadium": "Marcantonio Bentegodi",
+    "city": "Verona",
+    "HomeGoals": 0,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G6-SAS-UDI",
+    "matchday": 6,
+    "date": "2025-10-05",
+    "time": "18:30",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Udinese",
+    "stadium": "Mapei Stadium",
+    "city": "Reggio Emilia",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G6-LAZ-LEC",
+    "matchday": 6,
+    "date": "2025-10-05",
+    "time": "20:45",
+    "homeTeam": "Lazio",
+    "awayTeam": "Lecce",
+    "stadium": "Olimpico",
+    "city": "Roma",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G6-CRE-TOR",
+    "matchday": 6,
+    "date": "2025-10-06",
+    "time": "18:30",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Torino",
+    "stadium": "Giovanni Zini",
+    "city": "Cremona",
+    "HomeGoals": 0,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G6-INT-MIL",
+    "matchday": 6,
+    "date": "2025-10-06",
+    "time": "20:45",
+    "homeTeam": "Inter",
+    "awayTeam": "Milan",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G7-ATA-NAP",
+    "matchday": 7,
+    "date": "2025-10-18",
+    "time": "18:30",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Napoli",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G7-JUV-INT",
+    "matchday": 7,
+    "date": "2025-10-18",
+    "time": "20:45",
+    "homeTeam": "Juventus",
+    "awayTeam": "Inter",
+    "stadium": "Allianz Stadium",
+    "city": "Torino",
+    "HomeGoals": 0,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G7-COM-UDI",
+    "matchday": 7,
+    "date": "2025-10-19",
+    "time": "12:30",
+    "homeTeam": "Como",
+    "awayTeam": "Udinese",
+    "stadium": "Giuseppe Sinigaglia",
+    "city": "Como",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G7-FIO-VER",
+    "matchday": 7,
+    "date": "2025-10-19",
+    "time": "15:00",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Verona",
+    "stadium": "Artemio Franchi",
+    "city": "Firenze",
+    "HomeGoals": 2,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G7-GEN-CAG",
+    "matchday": 7,
+    "date": "2025-10-19",
+    "time": "15:00",
+    "homeTeam": "Genoa",
+    "awayTeam": "Cagliari",
+    "stadium": "Luigi Ferraris",
+    "city": "Genova",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G7-PAR-ROM",
+    "matchday": 7,
+    "date": "2025-10-19",
+    "time": "15:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Roma",
+    "stadium": "Ennio Tardini",
+    "city": "Parma",
+    "HomeGoals": 0,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G7-MIL-BOL",
+    "matchday": 7,
+    "date": "2025-10-19",
+    "time": "18:30",
+    "homeTeam": "Milan",
+    "awayTeam": "Bologna",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G7-TOR-SAS",
+    "matchday": 7,
+    "date": "2025-10-19",
+    "time": "20:45",
+    "homeTeam": "Torino",
+    "awayTeam": "Sassuolo",
+    "stadium": "Olimpico Grande Torino",
+    "city": "Torino",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G7-LEC-CRE",
+    "matchday": 7,
+    "date": "2025-10-20",
+    "time": "18:30",
+    "homeTeam": "Lecce",
+    "awayTeam": "Cremonese",
+    "stadium": "Via del Mare",
+    "city": "Lecce",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G7-PIS-LAZ",
+    "matchday": 7,
+    "date": "2025-10-20",
+    "time": "20:45",
+    "homeTeam": "Pisa",
+    "awayTeam": "Lazio",
+    "stadium": "Arena Garibaldi",
+    "city": "Pisa",
+    "HomeGoals": 1,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G8-NAP-PIS",
+    "matchday": 8,
+    "date": "2025-10-25",
+    "time": "18:30",
+    "homeTeam": "Napoli",
+    "awayTeam": "Pisa",
+    "stadium": "Diego Armando Maradona",
+    "city": "Napoli",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G8-JUV-COM",
+    "matchday": 8,
+    "date": "2025-10-25",
+    "time": "20:45",
+    "homeTeam": "Juventus",
+    "awayTeam": "Como",
+    "stadium": "Allianz Stadium",
+    "city": "Torino",
+    "HomeGoals": 3,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G8-LAZ-ATA",
+    "matchday": 8,
+    "date": "2025-10-26",
+    "time": "12:30",
+    "homeTeam": "Lazio",
+    "awayTeam": "Atalanta",
+    "stadium": "Olimpico",
+    "city": "Roma",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G8-UDI-LEC",
+    "matchday": 8,
+    "date": "2025-10-26",
+    "time": "15:00",
+    "homeTeam": "Udinese",
+    "awayTeam": "Lecce",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine",
+    "HomeGoals": 0,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G8-VER-PAR",
+    "matchday": 8,
+    "date": "2025-10-26",
+    "time": "15:00",
+    "homeTeam": "Verona",
+    "awayTeam": "Parma",
+    "stadium": "Marcantonio Bentegodi",
+    "city": "Verona",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G8-SAS-CAG",
+    "matchday": 8,
+    "date": "2025-10-26",
+    "time": "15:00",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Cagliari",
+    "stadium": "Mapei Stadium",
+    "city": "Reggio Emilia",
+    "HomeGoals": 2,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G8-ROM-INT",
+    "matchday": 8,
+    "date": "2025-10-26",
+    "time": "18:30",
+    "homeTeam": "Roma",
+    "awayTeam": "Inter",
+    "stadium": "Olimpico",
+    "city": "Roma",
+    "HomeGoals": 1,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G8-CRE-GEN",
+    "matchday": 8,
+    "date": "2025-10-26",
+    "time": "20:45",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Genoa",
+    "stadium": "Giovanni Zini",
+    "city": "Cremona",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G8-BOL-TOR",
+    "matchday": 8,
+    "date": "2025-10-27",
+    "time": "18:30",
+    "homeTeam": "Bologna",
+    "awayTeam": "Torino",
+    "stadium": "Renato Dall'Ara",
+    "city": "Bologna",
+    "HomeGoals": 0,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G8-FIO-MIL",
+    "matchday": 8,
+    "date": "2025-10-27",
+    "time": "20:45",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Milan",
+    "stadium": "Artemio Franchi",
+    "city": "Firenze",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G9-TOR-JUV",
+    "matchday": 9,
+    "date": "2025-10-29",
+    "time": "20:45",
+    "homeTeam": "Torino",
+    "awayTeam": "Juventus",
+    "stadium": "Olimpico Grande Torino",
+    "city": "Torino",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G9-CAG-BOL",
+    "matchday": 9,
+    "date": "2025-10-30",
+    "time": "18:30",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Bologna",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari",
+    "HomeGoals": 0,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G9-INT-UDI",
+    "matchday": 9,
+    "date": "2025-10-30",
+    "time": "20:45",
+    "homeTeam": "Inter",
+    "awayTeam": "Udinese",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 3,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G9-COM-VER",
+    "matchday": 9,
+    "date": "2025-10-30",
+    "time": "18:30",
+    "homeTeam": "Como",
+    "awayTeam": "Verona",
+    "stadium": "Giuseppe Sinigaglia",
+    "city": "Como",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G9-GEN-FIO",
+    "matchday": 9,
+    "date": "2025-10-30",
+    "time": "20:45",
+    "homeTeam": "Genoa",
+    "awayTeam": "Fiorentina",
+    "stadium": "Luigi Ferraris",
+    "city": "Genova",
+    "HomeGoals": 1,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G9-MIL-NAP",
+    "matchday": 9,
+    "date": "2025-10-30",
+    "time": "18:30",
+    "homeTeam": "Milan",
+    "awayTeam": "Napoli",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G9-PAR-CRE",
+    "matchday": 9,
+    "date": "2025-10-30",
+    "time": "20:45",
+    "homeTeam": "Parma",
+    "awayTeam": "Cremonese",
+    "stadium": "Ennio Tardini",
+    "city": "Parma",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G9-PIS-SAS",
+    "matchday": 9,
+    "date": "2025-10-30",
+    "time": "18:30",
+    "homeTeam": "Pisa",
+    "awayTeam": "Sassuolo",
+    "stadium": "Arena Garibaldi",
+    "city": "Pisa",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G9-ATA-ROM",
+    "matchday": 9,
+    "date": "2025-10-30",
+    "time": "20:45",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Roma",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo",
+    "HomeGoals": 2,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G9-LEC-LAZ",
+    "matchday": 9,
+    "date": "2025-10-30",
+    "time": "20:45",
+    "homeTeam": "Lecce",
+    "awayTeam": "Lazio",
+    "stadium": "Via del Mare",
+    "city": "Lecce",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G10-UDI-JUV",
+    "matchday": 10,
+    "date": "2025-11-01",
+    "time": "18:30",
+    "homeTeam": "Udinese",
+    "awayTeam": "Juventus",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine",
+    "HomeGoals": 0,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G10-VER-INT",
+    "matchday": 10,
+    "date": "2025-11-01",
+    "time": "20:45",
+    "homeTeam": "Verona",
+    "awayTeam": "Inter",
+    "stadium": "Marcantonio Bentegodi",
+    "city": "Verona",
+    "HomeGoals": 1,
+    "AwayGoals": 2,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G10-COM-GEN",
+    "matchday": 10,
+    "date": "2025-11-02",
+    "time": "12:30",
+    "homeTeam": "Como",
+    "awayTeam": "Genoa",
+    "stadium": "Giuseppe Sinigaglia",
+    "city": "Como",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G10-FIO-TOR",
+    "matchday": 10,
+    "date": "2025-11-02",
+    "time": "15:00",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Torino",
+    "stadium": "Artemio Franchi",
+    "city": "Firenze",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G10-PIS-CAG",
+    "matchday": 10,
+    "date": "2025-11-02",
+    "time": "15:00",
+    "homeTeam": "Pisa",
+    "awayTeam": "Cagliari",
+    "stadium": "Arena Garibaldi",
+    "city": "Pisa",
+    "HomeGoals": 2,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G10-SAS-CRE",
+    "matchday": 10,
+    "date": "2025-11-02",
+    "time": "15:00",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Cremonese",
+    "stadium": "Mapei Stadium",
+    "city": "Reggio Emilia",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G10-LAZ-PAR",
+    "matchday": 10,
+    "date": "2025-11-02",
+    "time": "18:30",
+    "homeTeam": "Lazio",
+    "awayTeam": "Parma",
+    "stadium": "Olimpico",
+    "city": "Roma",
+    "HomeGoals": 3,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G10-BOL-ATA",
+    "matchday": 10,
+    "date": "2025-11-02",
+    "time": "20:45",
+    "homeTeam": "Bologna",
+    "awayTeam": "Atalanta",
+    "stadium": "Renato Dall'Ara",
+    "city": "Bologna",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G10-ROM-MIL",
+    "matchday": 10,
+    "date": "2025-11-03",
+    "time": "18:30",
+    "homeTeam": "Roma",
+    "awayTeam": "Milan",
+    "stadium": "Olimpico",
+    "city": "Roma",
+    "HomeGoals": 2,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G10-NAP-LEC",
+    "matchday": 10,
+    "date": "2025-11-03",
+    "time": "20:45",
+    "homeTeam": "Napoli",
+    "awayTeam": "Lecce",
+    "stadium": "Diego Armando Maradona",
+    "city": "Napoli",
+    "HomeGoals": 4,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G11-JUV-SAS",
+    "matchday": 11,
+    "date": "2025-11-08",
+    "time": "18:30",
+    "homeTeam": "Juventus",
+    "awayTeam": "Sassuolo",
+    "stadium": "Allianz Stadium",
+    "city": "Torino",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G11-CAG-NAP",
+    "matchday": 11,
+    "date": "2025-11-08",
+    "time": "20:45",
+    "homeTeam": "Cagliari",
+    "awayTeam": "Napoli",
+    "stadium": "Unipol Domus",
+    "city": "Cagliari",
+    "HomeGoals": 0,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G11-CRE-FIO",
+    "matchday": 11,
+    "date": "2025-11-09",
+    "time": "12:30",
+    "homeTeam": "Cremonese",
+    "awayTeam": "Fiorentina",
+    "stadium": "Giovanni Zini",
+    "city": "Cremona",
+    "HomeGoals": 0,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G11-ATA-PIS",
+    "matchday": 11,
+    "date": "2025-11-09",
+    "time": "15:00",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Pisa",
+    "stadium": "Gewiss Stadium",
+    "city": "Bergamo",
+    "HomeGoals": 3,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G11-PAR-TOR",
+    "matchday": 11,
+    "date": "2025-11-09",
+    "time": "15:00",
+    "homeTeam": "Parma",
+    "awayTeam": "Torino",
+    "stadium": "Ennio Tardini",
+    "city": "Parma",
+    "HomeGoals": 0,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G11-UDI-ROM",
+    "matchday": 11,
+    "date": "2025-11-09",
+    "time": "15:00",
+    "homeTeam": "Udinese",
+    "awayTeam": "Roma",
+    "stadium": "Bluenergy Stadium",
+    "city": "Udine",
+    "HomeGoals": 1,
+    "AwayGoals": 3,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G11-LEC-COM",
+    "matchday": 11,
+    "date": "2025-11-09",
+    "time": "18:30",
+    "homeTeam": "Lecce",
+    "awayTeam": "Como",
+    "stadium": "Via del Mare",
+    "city": "Lecce",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G11-MIL-GEN",
+    "matchday": 11,
+    "date": "2025-11-09",
+    "time": "20:45",
+    "homeTeam": "Milan",
+    "awayTeam": "Genoa",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 3,
+    "AwayGoals": 1,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G11-LAZ-BOL",
+    "matchday": 11,
+    "date": "2025-11-10",
+    "time": "18:30",
+    "homeTeam": "Lazio",
+    "awayTeam": "Bologna",
+    "stadium": "Olimpico",
+    "city": "Roma",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
+    "id": "2025-26-G11-INT-VER",
+    "matchday": 11,
+    "date": "2025-11-10",
+    "time": "20:45",
+    "homeTeam": "Inter",
+    "awayTeam": "Verona",
+    "stadium": "San Siro",
+    "city": "Milano",
+    "HomeGoals": 4,
+    "AwayGoals": 0,
+    "status": "FINISHED"
+  },
+  {
     "id": "2025-26-G12-CAG-GEN",
     "matchday": 12,
     "date": "2025-11-22",
@@ -7,7 +1437,10 @@
     "homeTeam": "Cagliari",
     "awayTeam": "Genoa",
     "stadium": "Unipol Domus",
-    "city": "Cagliari"
+    "city": "Cagliari",
+    "HomeGoals": 1,
+    "AwayGoals": 1,
+    "status": "FINISHED"
   },
   {
     "id": "2025-26-G12-UDI-BOL",
@@ -17,7 +1450,10 @@
     "homeTeam": "Udinese",
     "awayTeam": "Bologna",
     "stadium": "Bluenergy Stadium",
-    "city": "Udine"
+    "city": "Udine",
+    "HomeGoals": 2,
+    "AwayGoals": 0,
+    "status": "FINISHED"
   },
   {
     "id": "2025-26-G12-FIO-JUV",
@@ -27,7 +1463,10 @@
     "homeTeam": "Fiorentina",
     "awayTeam": "Juventus",
     "stadium": "Stadio Artemio Franchi",
-    "city": "Firenze"
+    "city": "Firenze",
+    "HomeGoals": 1,
+    "AwayGoals": 3,
+    "status": "FINISHED"
   },
   {
     "id": "2025-26-G12-NAP-ATA",
@@ -37,7 +1476,10 @@
     "homeTeam": "Napoli",
     "awayTeam": "Atalanta",
     "stadium": "Stadio Diego Armando Maradona",
-    "city": "Napoli"
+    "city": "Napoli",
+    "HomeGoals": 2,
+    "AwayGoals": 2,
+    "status": "FINISHED"
   },
   {
     "id": "2025-26-G12-VER-PAR",
@@ -47,7 +1489,10 @@
     "homeTeam": "Hellas Verona",
     "awayTeam": "Parma",
     "stadium": "Stadio Marcantonio Bentegodi",
-    "city": "Verona"
+    "city": "Verona",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
   },
   {
     "id": "2025-26-G12-CRE-ROM",
@@ -57,7 +1502,10 @@
     "homeTeam": "Cremonese",
     "awayTeam": "Roma",
     "stadium": "Stadio Giovanni Zini",
-    "city": "Cremona"
+    "city": "Cremona",
+    "HomeGoals": 0,
+    "AwayGoals": 3,
+    "status": "FINISHED"
   },
   {
     "id": "2025-26-G12-LAZ-LEC",
@@ -67,7 +1515,10 @@
     "homeTeam": "Lazio",
     "awayTeam": "Lecce",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": 2,
+    "AwayGoals": 1,
+    "status": "FINISHED"
   },
   {
     "id": "2025-26-G12-INT-MIL",
@@ -77,7 +1528,10 @@
     "homeTeam": "Inter",
     "awayTeam": "AC Milan",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": 1,
+    "AwayGoals": 0,
+    "status": "FINISHED"
   },
   {
     "id": "2025-26-G12-TOR-COM",
@@ -87,7 +1541,10 @@
     "homeTeam": "Torino",
     "awayTeam": "Como",
     "stadium": "Stadio Olimpico Grande Torino",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G12-SAS-PIS",
@@ -97,7 +1554,10 @@
     "homeTeam": "Sassuolo",
     "awayTeam": "Pisa",
     "stadium": "MAPEI Stadium - Città del Tricolore",
-    "city": "Reggio Emilia"
+    "city": "Reggio Emilia",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G13-BOL-CRE",
@@ -107,7 +1567,10 @@
     "homeTeam": "Bologna",
     "awayTeam": "Cremonese",
     "stadium": "Stadio Renato Dall'Ara",
-    "city": "Bologna"
+    "city": "Bologna",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G13-ROM-NAP",
@@ -117,7 +1580,10 @@
     "homeTeam": "Roma",
     "awayTeam": "Napoli",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G13-PAR-UDI",
@@ -127,7 +1593,10 @@
     "homeTeam": "Parma",
     "awayTeam": "Udinese",
     "stadium": "Stadio Ennio Tardini",
-    "city": "Parma"
+    "city": "Parma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G13-JUV-CAG",
@@ -137,7 +1606,10 @@
     "homeTeam": "Juventus",
     "awayTeam": "Cagliari",
     "stadium": "Allianz Stadium",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G13-PIS-INT",
@@ -147,7 +1619,10 @@
     "homeTeam": "Pisa",
     "awayTeam": "Inter",
     "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
-    "city": "Pisa"
+    "city": "Pisa",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G13-GEN-VER",
@@ -157,7 +1632,10 @@
     "homeTeam": "Genoa",
     "awayTeam": "Hellas Verona",
     "stadium": "Stadio Luigi Ferraris",
-    "city": "Genova"
+    "city": "Genova",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G13-ATA-FIO",
@@ -167,7 +1645,10 @@
     "homeTeam": "Atalanta",
     "awayTeam": "Fiorentina",
     "stadium": "Gewiss Stadium",
-    "city": "Bergamo"
+    "city": "Bergamo",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G13-MIL-LAZ",
@@ -177,7 +1658,10 @@
     "homeTeam": "AC Milan",
     "awayTeam": "Lazio",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G13-LEC-TOR",
@@ -187,7 +1671,10 @@
     "homeTeam": "Lecce",
     "awayTeam": "Torino",
     "stadium": "Stadio Via del Mare",
-    "city": "Lecce"
+    "city": "Lecce",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G13-COM-SAS",
@@ -197,7 +1684,10 @@
     "homeTeam": "Como",
     "awayTeam": "Sassuolo",
     "stadium": "Stadio Giuseppe Sinigaglia",
-    "city": "Como"
+    "city": "Como",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G14-TOR-MIL",
@@ -207,7 +1697,10 @@
     "homeTeam": "Torino",
     "awayTeam": "AC Milan",
     "stadium": "Stadio Olimpico Grande Torino",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G14-INT-COM",
@@ -217,7 +1710,10 @@
     "homeTeam": "Inter",
     "awayTeam": "Como",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G14-UDI-NAP",
@@ -227,7 +1723,10 @@
     "homeTeam": "Udinese",
     "awayTeam": "Napoli",
     "stadium": "Bluenergy Stadium",
-    "city": "Udine"
+    "city": "Udine",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G14-FIO-VER",
@@ -237,7 +1736,10 @@
     "homeTeam": "Fiorentina",
     "awayTeam": "Hellas Verona",
     "stadium": "Stadio Artemio Franchi",
-    "city": "Firenze"
+    "city": "Firenze",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G14-GEN-INT",
@@ -247,7 +1749,10 @@
     "homeTeam": "Genoa",
     "awayTeam": "Inter",
     "stadium": "Stadio Luigi Ferraris",
-    "city": "Genova"
+    "city": "Genova",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G14-PAR-LAZ",
@@ -257,7 +1762,10 @@
     "homeTeam": "Parma",
     "awayTeam": "Lazio",
     "stadium": "Stadio Ennio Tardini",
-    "city": "Parma"
+    "city": "Parma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G14-ATA-CAG",
@@ -267,7 +1775,10 @@
     "homeTeam": "Atalanta",
     "awayTeam": "Cagliari",
     "stadium": "Gewiss Stadium",
-    "city": "Bergamo"
+    "city": "Bergamo",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G14-BOL-JUV",
@@ -277,7 +1788,10 @@
     "homeTeam": "Bologna",
     "awayTeam": "Juventus",
     "stadium": "Stadio Renato Dall'Ara",
-    "city": "Bologna"
+    "city": "Bologna",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G14-LEC-PIS",
@@ -287,7 +1801,10 @@
     "homeTeam": "Lecce",
     "awayTeam": "Pisa",
     "stadium": "Stadio Via del Mare",
-    "city": "Lecce"
+    "city": "Lecce",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G14-ROM-CAG",
@@ -297,7 +1814,10 @@
     "homeTeam": "Roma",
     "awayTeam": "Cagliari",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G15-PIS-PAR",
@@ -307,7 +1827,10 @@
     "homeTeam": "Pisa",
     "awayTeam": "Parma",
     "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
-    "city": "Pisa"
+    "city": "Pisa",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G15-JUV-TOR",
@@ -317,7 +1840,10 @@
     "homeTeam": "Juventus",
     "awayTeam": "Torino",
     "stadium": "Allianz Stadium",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G15-NAP-MIL",
@@ -327,7 +1853,10 @@
     "homeTeam": "Napoli",
     "awayTeam": "AC Milan",
     "stadium": "Stadio Diego Armando Maradona",
-    "city": "Napoli"
+    "city": "Napoli",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G15-CAG-UDI",
@@ -337,7 +1866,10 @@
     "homeTeam": "Cagliari",
     "awayTeam": "Udinese",
     "stadium": "Unipol Domus",
-    "city": "Cagliari"
+    "city": "Cagliari",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G15-COM-FIO",
@@ -347,7 +1879,10 @@
     "homeTeam": "Como",
     "awayTeam": "Fiorentina",
     "stadium": "Stadio Giuseppe Sinigaglia",
-    "city": "Como"
+    "city": "Como",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G15-LAZ-ATA",
@@ -357,7 +1892,10 @@
     "homeTeam": "Lazio",
     "awayTeam": "Atalanta",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G15-SAS-LEC",
@@ -367,7 +1905,10 @@
     "homeTeam": "Sassuolo",
     "awayTeam": "Lecce",
     "stadium": "MAPEI Stadium - Città del Tricolore",
-    "city": "Reggio Emilia"
+    "city": "Reggio Emilia",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G15-INT-GEN",
@@ -377,7 +1918,10 @@
     "homeTeam": "Inter",
     "awayTeam": "Genoa",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G15-CRE-BOL",
@@ -387,7 +1931,10 @@
     "homeTeam": "Cremonese",
     "awayTeam": "Bologna",
     "stadium": "Stadio Giovanni Zini",
-    "city": "Cremona"
+    "city": "Cremona",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G15-VER-ROM",
@@ -397,7 +1944,10 @@
     "homeTeam": "Hellas Verona",
     "awayTeam": "Roma",
     "stadium": "Stadio Marcantonio Bentegodi",
-    "city": "Verona"
+    "city": "Verona",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G16-BOL-INT",
@@ -407,7 +1957,10 @@
     "homeTeam": "Bologna",
     "awayTeam": "Inter",
     "stadium": "Stadio Renato Dall'Ara",
-    "city": "Bologna"
+    "city": "Bologna",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G16-GEN-NAP",
@@ -417,7 +1970,10 @@
     "homeTeam": "Genoa",
     "awayTeam": "Napoli",
     "stadium": "Stadio Luigi Ferraris",
-    "city": "Genova"
+    "city": "Genova",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G16-MIL-PIS",
@@ -427,7 +1983,10 @@
     "homeTeam": "AC Milan",
     "awayTeam": "Pisa",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G16-ATA-PAR",
@@ -437,7 +1996,10 @@
     "homeTeam": "Atalanta",
     "awayTeam": "Parma",
     "stadium": "Gewiss Stadium",
-    "city": "Bergamo"
+    "city": "Bergamo",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G16-FIO-SAS",
@@ -447,7 +2009,10 @@
     "homeTeam": "Fiorentina",
     "awayTeam": "Sassuolo",
     "stadium": "Stadio Artemio Franchi",
-    "city": "Firenze"
+    "city": "Firenze",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G16-JUV-VER",
@@ -457,7 +2022,10 @@
     "homeTeam": "Juventus",
     "awayTeam": "Hellas Verona",
     "stadium": "Allianz Stadium",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G16-TOR-CAG",
@@ -467,7 +2035,10 @@
     "homeTeam": "Torino",
     "awayTeam": "Cagliari",
     "stadium": "Stadio Olimpico Grande Torino",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G16-LEC-ROM",
@@ -477,7 +2048,10 @@
     "homeTeam": "Lecce",
     "awayTeam": "Roma",
     "stadium": "Stadio Via del Mare",
-    "city": "Lecce"
+    "city": "Lecce",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G16-COM-UDI",
@@ -487,7 +2061,10 @@
     "homeTeam": "Como",
     "awayTeam": "Udinese",
     "stadium": "Stadio Giuseppe Sinigaglia",
-    "city": "Como"
+    "city": "Como",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G16-LAZ-CRE",
@@ -497,7 +2074,10 @@
     "homeTeam": "Lazio",
     "awayTeam": "Cremonese",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G17-UDI-JUV",
@@ -507,7 +2087,10 @@
     "homeTeam": "Udinese",
     "awayTeam": "Juventus",
     "stadium": "Bluenergy Stadium",
-    "city": "Udine"
+    "city": "Udine",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G17-PAR-TOR",
@@ -517,7 +2100,10 @@
     "homeTeam": "Parma",
     "awayTeam": "Torino",
     "stadium": "Stadio Ennio Tardini",
-    "city": "Parma"
+    "city": "Parma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G17-NAP-LAZ",
@@ -527,7 +2113,10 @@
     "homeTeam": "Napoli",
     "awayTeam": "Lazio",
     "stadium": "Stadio Diego Armando Maradona",
-    "city": "Napoli"
+    "city": "Napoli",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G17-CAG-BOL",
@@ -537,7 +2126,10 @@
     "homeTeam": "Cagliari",
     "awayTeam": "Bologna",
     "stadium": "Unipol Domus",
-    "city": "Cagliari"
+    "city": "Cagliari",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G17-CRE-ATA",
@@ -547,7 +2139,10 @@
     "homeTeam": "Cremonese",
     "awayTeam": "Atalanta",
     "stadium": "Stadio Giovanni Zini",
-    "city": "Cremona"
+    "city": "Cremona",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G17-PIS-GEN",
@@ -557,7 +2152,10 @@
     "homeTeam": "Pisa",
     "awayTeam": "Genoa",
     "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
-    "city": "Pisa"
+    "city": "Pisa",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G17-SAS-COM",
@@ -567,7 +2165,10 @@
     "homeTeam": "Sassuolo",
     "awayTeam": "Como",
     "stadium": "MAPEI Stadium - Città del Tricolore",
-    "city": "Reggio Emilia"
+    "city": "Reggio Emilia",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G17-ROM-INT",
@@ -577,7 +2178,10 @@
     "homeTeam": "Roma",
     "awayTeam": "Inter",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G17-VER-LEC",
@@ -587,7 +2191,10 @@
     "homeTeam": "Hellas Verona",
     "awayTeam": "Lecce",
     "stadium": "Stadio Marcantonio Bentegodi",
-    "city": "Verona"
+    "city": "Verona",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G17-MIL-FIO",
@@ -597,7 +2204,10 @@
     "homeTeam": "AC Milan",
     "awayTeam": "Fiorentina",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G18-INT-UDI",
@@ -607,7 +2217,10 @@
     "homeTeam": "Inter",
     "awayTeam": "Udinese",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G18-COM-MIL",
@@ -617,7 +2230,10 @@
     "homeTeam": "Como",
     "awayTeam": "AC Milan",
     "stadium": "Stadio Giuseppe Sinigaglia",
-    "city": "Como"
+    "city": "Como",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G18-TOR-PIS",
@@ -627,7 +2243,10 @@
     "homeTeam": "Torino",
     "awayTeam": "Pisa",
     "stadium": "Stadio Olimpico Grande Torino",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G18-LAZ-JUV",
@@ -637,7 +2256,10 @@
     "homeTeam": "Lazio",
     "awayTeam": "Juventus",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G18-NAP-ATA",
@@ -647,7 +2269,10 @@
     "homeTeam": "Napoli",
     "awayTeam": "Atalanta",
     "stadium": "Stadio Diego Armando Maradona",
-    "city": "Napoli"
+    "city": "Napoli",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G18-CAG-VER",
@@ -657,7 +2282,10 @@
     "homeTeam": "Cagliari",
     "awayTeam": "Hellas Verona",
     "stadium": "Unipol Domus",
-    "city": "Cagliari"
+    "city": "Cagliari",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G18-FIO-PAR",
@@ -667,7 +2295,10 @@
     "homeTeam": "Fiorentina",
     "awayTeam": "Parma",
     "stadium": "Stadio Artemio Franchi",
-    "city": "Firenze"
+    "city": "Firenze",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G18-GEN-CRE",
@@ -677,7 +2308,10 @@
     "homeTeam": "Genoa",
     "awayTeam": "Cremonese",
     "stadium": "Stadio Luigi Ferraris",
-    "city": "Genova"
+    "city": "Genova",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G18-ATA-BOL",
@@ -687,7 +2321,10 @@
     "homeTeam": "Atalanta",
     "awayTeam": "Bologna",
     "stadium": "Gewiss Stadium",
-    "city": "Bergamo"
+    "city": "Bergamo",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G18-LEC-SAS",
@@ -697,7 +2334,10 @@
     "homeTeam": "Lecce",
     "awayTeam": "Sassuolo",
     "stadium": "Stadio Via del Mare",
-    "city": "Lecce"
+    "city": "Lecce",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G19-BOL-GEN",
@@ -707,7 +2347,10 @@
     "homeTeam": "Bologna",
     "awayTeam": "Genoa",
     "stadium": "Stadio Renato Dall'Ara",
-    "city": "Bologna"
+    "city": "Bologna",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G19-MIL-ROM",
@@ -717,7 +2360,10 @@
     "homeTeam": "AC Milan",
     "awayTeam": "Roma",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G19-JUV-ATA",
@@ -727,7 +2373,10 @@
     "homeTeam": "Juventus",
     "awayTeam": "Atalanta",
     "stadium": "Allianz Stadium",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G19-NAP-CAG",
@@ -737,7 +2386,10 @@
     "homeTeam": "Napoli",
     "awayTeam": "Cagliari",
     "stadium": "Stadio Diego Armando Maradona",
-    "city": "Napoli"
+    "city": "Napoli",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G19-PAR-INT",
@@ -747,7 +2399,10 @@
     "homeTeam": "Parma",
     "awayTeam": "Inter",
     "stadium": "Stadio Ennio Tardini",
-    "city": "Parma"
+    "city": "Parma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G19-PIS-FIO",
@@ -757,7 +2412,10 @@
     "homeTeam": "Pisa",
     "awayTeam": "Fiorentina",
     "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
-    "city": "Pisa"
+    "city": "Pisa",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G19-SAS-TOR",
@@ -767,7 +2425,10 @@
     "homeTeam": "Sassuolo",
     "awayTeam": "Torino",
     "stadium": "MAPEI Stadium - Città del Tricolore",
-    "city": "Reggio Emilia"
+    "city": "Reggio Emilia",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G19-UDI-LAZ",
@@ -777,7 +2438,10 @@
     "homeTeam": "Udinese",
     "awayTeam": "Lazio",
     "stadium": "Bluenergy Stadium",
-    "city": "Udine"
+    "city": "Udine",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G19-CRE-COM",
@@ -787,7 +2451,10 @@
     "homeTeam": "Cremonese",
     "awayTeam": "Como",
     "stadium": "Stadio Giovanni Zini",
-    "city": "Cremona"
+    "city": "Cremona",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G19-VER-LEC",
@@ -797,7 +2464,10 @@
     "homeTeam": "Hellas Verona",
     "awayTeam": "Lecce",
     "stadium": "Stadio Marcantonio Bentegodi",
-    "city": "Verona"
+    "city": "Verona",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G20-MIL-INT",
@@ -807,7 +2477,10 @@
     "homeTeam": "AC Milan",
     "awayTeam": "Inter",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G20-GEN-CAG",
@@ -817,7 +2490,10 @@
     "homeTeam": "Genoa",
     "awayTeam": "Cagliari",
     "stadium": "Stadio Luigi Ferraris",
-    "city": "Genova"
+    "city": "Genova",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G20-BOL-UDI",
@@ -827,7 +2503,10 @@
     "homeTeam": "Bologna",
     "awayTeam": "Udinese",
     "stadium": "Stadio Renato Dall'Ara",
-    "city": "Bologna"
+    "city": "Bologna",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G20-JUV-FIO",
@@ -837,7 +2516,10 @@
     "homeTeam": "Juventus",
     "awayTeam": "Fiorentina",
     "stadium": "Allianz Stadium",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G20-ATA-NAP",
@@ -847,7 +2529,10 @@
     "homeTeam": "Atalanta",
     "awayTeam": "Napoli",
     "stadium": "Gewiss Stadium",
-    "city": "Bergamo"
+    "city": "Bergamo",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G20-PAR-VER",
@@ -857,7 +2542,10 @@
     "homeTeam": "Parma",
     "awayTeam": "Hellas Verona",
     "stadium": "Stadio Ennio Tardini",
-    "city": "Parma"
+    "city": "Parma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G20-ROM-CRE",
@@ -867,7 +2555,10 @@
     "homeTeam": "Roma",
     "awayTeam": "Cremonese",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G20-LEC-LAZ",
@@ -877,7 +2568,10 @@
     "homeTeam": "Lecce",
     "awayTeam": "Lazio",
     "stadium": "Stadio Via del Mare",
-    "city": "Lecce"
+    "city": "Lecce",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G20-COM-TOR",
@@ -887,7 +2581,10 @@
     "homeTeam": "Como",
     "awayTeam": "Torino",
     "stadium": "Stadio Giuseppe Sinigaglia",
-    "city": "Como"
+    "city": "Como",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G20-PIS-SAS",
@@ -897,7 +2594,10 @@
     "homeTeam": "Pisa",
     "awayTeam": "Sassuolo",
     "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
-    "city": "Pisa"
+    "city": "Pisa",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G21-CRE-BOL",
@@ -907,7 +2607,10 @@
     "homeTeam": "Cremonese",
     "awayTeam": "Bologna",
     "stadium": "Stadio Giovanni Zini",
-    "city": "Cremona"
+    "city": "Cremona",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G21-NAP-ROM",
@@ -917,7 +2620,10 @@
     "homeTeam": "Napoli",
     "awayTeam": "Roma",
     "stadium": "Stadio Diego Armando Maradona",
-    "city": "Napoli"
+    "city": "Napoli",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G21-UDI-PAR",
@@ -927,7 +2633,10 @@
     "homeTeam": "Udinese",
     "awayTeam": "Parma",
     "stadium": "Bluenergy Stadium",
-    "city": "Udine"
+    "city": "Udine",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G21-CAG-JUV",
@@ -937,7 +2646,10 @@
     "homeTeam": "Cagliari",
     "awayTeam": "Juventus",
     "stadium": "Unipol Domus",
-    "city": "Cagliari"
+    "city": "Cagliari",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G21-INT-PIS",
@@ -947,7 +2659,10 @@
     "homeTeam": "Inter",
     "awayTeam": "Pisa",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G21-VER-GEN",
@@ -957,7 +2672,10 @@
     "homeTeam": "Hellas Verona",
     "awayTeam": "Genoa",
     "stadium": "Stadio Marcantonio Bentegodi",
-    "city": "Verona"
+    "city": "Verona",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G21-FIO-ATA",
@@ -967,7 +2685,10 @@
     "homeTeam": "Fiorentina",
     "awayTeam": "Atalanta",
     "stadium": "Stadio Artemio Franchi",
-    "city": "Firenze"
+    "city": "Firenze",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G21-LAZ-MIL",
@@ -977,7 +2698,10 @@
     "homeTeam": "Lazio",
     "awayTeam": "AC Milan",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G21-TOR-LEC",
@@ -987,7 +2711,10 @@
     "homeTeam": "Torino",
     "awayTeam": "Lecce",
     "stadium": "Stadio Olimpico Grande Torino",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G21-SAS-COM",
@@ -997,7 +2724,10 @@
     "homeTeam": "Sassuolo",
     "awayTeam": "Como",
     "stadium": "MAPEI Stadium - Città del Tricolore",
-    "city": "Reggio Emilia"
+    "city": "Reggio Emilia",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G22-JUV-MIL",
@@ -1007,7 +2737,10 @@
     "homeTeam": "Juventus",
     "awayTeam": "AC Milan",
     "stadium": "Allianz Stadium",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G22-ROM-FIO",
@@ -1017,7 +2750,10 @@
     "homeTeam": "Roma",
     "awayTeam": "Fiorentina",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G22-UDI-INT",
@@ -1027,7 +2763,10 @@
     "homeTeam": "Udinese",
     "awayTeam": "Inter",
     "stadium": "Bluenergy Stadium",
-    "city": "Udine"
+    "city": "Udine",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G22-CAG-VER",
@@ -1037,7 +2776,10 @@
     "homeTeam": "Cagliari",
     "awayTeam": "Hellas Verona",
     "stadium": "Unipol Domus",
-    "city": "Cagliari"
+    "city": "Cagliari",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G22-COM-ATA",
@@ -1047,7 +2789,10 @@
     "homeTeam": "Como",
     "awayTeam": "Atalanta",
     "stadium": "Stadio Giuseppe Sinigaglia",
-    "city": "Como"
+    "city": "Como",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G22-GEN-CRE",
@@ -1057,7 +2802,10 @@
     "homeTeam": "Genoa",
     "awayTeam": "Cremonese",
     "stadium": "Stadio Luigi Ferraris",
-    "city": "Genova"
+    "city": "Genova",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G22-PAR-BOL",
@@ -1067,7 +2815,10 @@
     "homeTeam": "Parma",
     "awayTeam": "Bologna",
     "stadium": "Stadio Ennio Tardini",
-    "city": "Parma"
+    "city": "Parma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G22-PIS-NAP",
@@ -1077,7 +2828,10 @@
     "homeTeam": "Pisa",
     "awayTeam": "Napoli",
     "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
-    "city": "Pisa"
+    "city": "Pisa",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G22-LAZ-SAS",
@@ -1087,7 +2841,10 @@
     "homeTeam": "Lazio",
     "awayTeam": "Sassuolo",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G22-TOR-LEC",
@@ -1097,7 +2854,10 @@
     "homeTeam": "Torino",
     "awayTeam": "Lecce",
     "stadium": "Stadio Olimpico Grande Torino",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G23-MIL-JUV",
@@ -1107,7 +2867,10 @@
     "homeTeam": "AC Milan",
     "awayTeam": "Juventus",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G23-INT-UDI",
@@ -1117,7 +2880,10 @@
     "homeTeam": "Inter",
     "awayTeam": "Udinese",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G23-NAP-PIS",
@@ -1127,7 +2893,10 @@
     "homeTeam": "Napoli",
     "awayTeam": "Pisa",
     "stadium": "Stadio Diego Armando Maradona",
-    "city": "Napoli"
+    "city": "Napoli",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G23-FIO-ROM",
@@ -1137,7 +2906,10 @@
     "homeTeam": "Fiorentina",
     "awayTeam": "Roma",
     "stadium": "Stadio Artemio Franchi",
-    "city": "Firenze"
+    "city": "Firenze",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G23-ATA-COM",
@@ -1147,7 +2919,10 @@
     "homeTeam": "Atalanta",
     "awayTeam": "Como",
     "stadium": "Gewiss Stadium",
-    "city": "Bergamo"
+    "city": "Bergamo",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G23-BOL-PAR",
@@ -1157,7 +2932,10 @@
     "homeTeam": "Bologna",
     "awayTeam": "Parma",
     "stadium": "Stadio Renato Dall'Ara",
-    "city": "Bologna"
+    "city": "Bologna",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G23-CRE-GEN",
@@ -1167,7 +2945,10 @@
     "homeTeam": "Cremonese",
     "awayTeam": "Genoa",
     "stadium": "Stadio Giovanni Zini",
-    "city": "Cremona"
+    "city": "Cremona",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G23-VER-CAG",
@@ -1177,7 +2958,10 @@
     "homeTeam": "Hellas Verona",
     "awayTeam": "Cagliari",
     "stadium": "Stadio Marcantonio Bentegodi",
-    "city": "Verona"
+    "city": "Verona",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G23-LEC-LAZ",
@@ -1187,7 +2971,10 @@
     "homeTeam": "Lecce",
     "awayTeam": "Lazio",
     "stadium": "Stadio Via del Mare",
-    "city": "Lecce"
+    "city": "Lecce",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G23-SAS-TOR",
@@ -1197,7 +2984,10 @@
     "homeTeam": "Sassuolo",
     "awayTeam": "Torino",
     "stadium": "MAPEI Stadium - Città del Tricolore",
-    "city": "Reggio Emilia"
+    "city": "Reggio Emilia",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G24-JUV-SAS",
@@ -1207,7 +2997,10 @@
     "homeTeam": "Juventus",
     "awayTeam": "Sassuolo",
     "stadium": "Allianz Stadium",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G24-ROM-MIL",
@@ -1217,7 +3010,10 @@
     "homeTeam": "Roma",
     "awayTeam": "AC Milan",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G24-UDI-CAG",
@@ -1227,7 +3023,10 @@
     "homeTeam": "Udinese",
     "awayTeam": "Cagliari",
     "stadium": "Bluenergy Stadium",
-    "city": "Udine"
+    "city": "Udine",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G24-CAG-JUV",
@@ -1237,7 +3036,10 @@
     "homeTeam": "Cagliari",
     "awayTeam": "Juventus",
     "stadium": "Unipol Domus",
-    "city": "Cagliari"
+    "city": "Cagliari",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G24-ATA-GEN",
@@ -1247,7 +3049,10 @@
     "homeTeam": "Atalanta",
     "awayTeam": "Genoa",
     "stadium": "Gewiss Stadium",
-    "city": "Bergamo"
+    "city": "Bergamo",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G24-PAR-FIO",
@@ -1257,7 +3062,10 @@
     "homeTeam": "Parma",
     "awayTeam": "Fiorentina",
     "stadium": "Stadio Ennio Tardini",
-    "city": "Parma"
+    "city": "Parma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G24-PIS-CRE",
@@ -1267,7 +3075,10 @@
     "homeTeam": "Pisa",
     "awayTeam": "Cremonese",
     "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
-    "city": "Pisa"
+    "city": "Pisa",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G24-TOR-LAZ",
@@ -1277,7 +3088,10 @@
     "homeTeam": "Torino",
     "awayTeam": "Lazio",
     "stadium": "Stadio Olimpico Grande Torino",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G24-COM-NAP",
@@ -1287,7 +3101,10 @@
     "homeTeam": "Como",
     "awayTeam": "Napoli",
     "stadium": "Stadio Giuseppe Sinigaglia",
-    "city": "Como"
+    "city": "Como",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G24-LEC-INT",
@@ -1297,7 +3114,10 @@
     "homeTeam": "Lecce",
     "awayTeam": "Inter",
     "stadium": "Stadio Via del Mare",
-    "city": "Lecce"
+    "city": "Lecce",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G25-MIL-PIS",
@@ -1307,7 +3127,10 @@
     "homeTeam": "AC Milan",
     "awayTeam": "Pisa",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G25-INT-TOR",
@@ -1317,7 +3140,10 @@
     "homeTeam": "Inter",
     "awayTeam": "Torino",
     "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
+    "city": "Milano",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G25-NAP-JUV",
@@ -1327,7 +3153,10 @@
     "homeTeam": "Napoli",
     "awayTeam": "Juventus",
     "stadium": "Stadio Diego Armando Maradona",
-    "city": "Napoli"
+    "city": "Napoli",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G25-FIO-COM",
@@ -1337,7 +3166,10 @@
     "homeTeam": "Fiorentina",
     "awayTeam": "Como",
     "stadium": "Stadio Artemio Franchi",
-    "city": "Firenze"
+    "city": "Firenze",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G25-GEN-UDI",
@@ -1347,7 +3179,10 @@
     "homeTeam": "Genoa",
     "awayTeam": "Udinese",
     "stadium": "Stadio Luigi Ferraris",
-    "city": "Genova"
+    "city": "Genova",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G25-LAZ-ATA",
@@ -1357,7 +3192,10 @@
     "homeTeam": "Lazio",
     "awayTeam": "Atalanta",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G25-SAS-BOL",
@@ -1367,7 +3205,10 @@
     "homeTeam": "Sassuolo",
     "awayTeam": "Bologna",
     "stadium": "MAPEI Stadium - Città del Tricolore",
-    "city": "Reggio Emilia"
+    "city": "Reggio Emilia",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G25-CAG-LEC",
@@ -1377,7 +3218,10 @@
     "homeTeam": "Cagliari",
     "awayTeam": "Lecce",
     "stadium": "Unipol Domus",
-    "city": "Cagliari"
+    "city": "Cagliari",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G25-CRE-VER",
@@ -1387,7 +3231,10 @@
     "homeTeam": "Cremonese",
     "awayTeam": "Hellas Verona",
     "stadium": "Stadio Giovanni Zini",
-    "city": "Cremona"
+    "city": "Cremona",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G25-ROM-PAR",
@@ -1397,7 +3244,10 @@
     "homeTeam": "Roma",
     "awayTeam": "Parma",
     "stadium": "Stadio Olimpico",
-    "city": "Roma"
+    "city": "Roma",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G26-JUV-CRE",
@@ -1407,7 +3257,10 @@
     "homeTeam": "Juventus",
     "awayTeam": "Cremonese",
     "stadium": "Allianz Stadium",
-    "city": "Torino"
+    "city": "Torino",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   },
   {
     "id": "2025-26-G26-UDI-FIO",
@@ -1417,486 +3270,9 @@
     "homeTeam": "Udinese",
     "awayTeam": "Fiorentina",
     "stadium": "Bluenergy Stadium",
-    "city": "Udine"
-  },
-  {
-    "id": "2025-26-G26-BOL-NAP",
-    "matchday": 26,
-    "date": "2026-02-28",
-    "time": "20:45",
-    "homeTeam": "Bologna",
-    "awayTeam": "Napoli",
-    "stadium": "Stadio Renato Dall'Ara",
-    "city": "Bologna"
-  },
-  {
-    "id": "2025-26-G26-MIL-CAG",
-    "matchday": 26,
-    "date": "2026-03-01",
-    "time": "12:30",
-    "homeTeam": "AC Milan",
-    "awayTeam": "Cagliari",
-    "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
-  },
-  {
-    "id": "2025-26-G26-ATA-PIS",
-    "matchday": 26,
-    "date": "2026-03-01",
-    "time": "15:00",
-    "homeTeam": "Atalanta",
-    "awayTeam": "Pisa",
-    "stadium": "Gewiss Stadium",
-    "city": "Bergamo"
-  },
-  {
-    "id": "2025-26-G26-VER-INT",
-    "matchday": 26,
-    "date": "2026-03-01",
-    "time": "15:00",
-    "homeTeam": "Hellas Verona",
-    "awayTeam": "Inter",
-    "stadium": "Stadio Marcantonio Bentegodi",
-    "city": "Verona"
-  },
-  {
-    "id": "2025-26-G26-PAR-COM",
-    "matchday": 26,
-    "date": "2026-03-01",
-    "time": "18:00",
-    "homeTeam": "Parma",
-    "awayTeam": "Como",
-    "stadium": "Stadio Ennio Tardini",
-    "city": "Parma"
-  },
-  {
-    "id": "2025-26-G26-TOR-GEN",
-    "matchday": 26,
-    "date": "2026-03-01",
-    "time": "20:45",
-    "homeTeam": "Torino",
-    "awayTeam": "Genoa",
-    "stadium": "Stadio Olimpico Grande Torino",
-    "city": "Torino"
-  },
-  {
-    "id": "2025-26-G26-LEC-SAS",
-    "matchday": 26,
-    "date": "2026-03-02",
-    "time": "18:30",
-    "homeTeam": "Lecce",
-    "awayTeam": "Sassuolo",
-    "stadium": "Stadio Via del Mare",
-    "city": "Lecce"
-  },
-  {
-    "id": "2025-26-G26-ROM-LAZ",
-    "matchday": 26,
-    "date": "2026-03-02",
-    "time": "20:45",
-    "homeTeam": "Roma",
-    "awayTeam": "Lazio",
-    "stadium": "Stadio Olimpico",
-    "city": "Roma"
-  },
-  {
-    "id": "2025-26-G27-INT-JUV",
-    "matchday": 27,
-    "date": "2026-03-07",
-    "time": "15:00",
-    "homeTeam": "Inter",
-    "awayTeam": "Juventus",
-    "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
-  },
-  {
-    "id": "2025-26-G27-NAP-VER",
-    "matchday": 27,
-    "date": "2026-03-07",
-    "time": "18:00",
-    "homeTeam": "Napoli",
-    "awayTeam": "Hellas Verona",
-    "stadium": "Stadio Diego Armando Maradona",
-    "city": "Napoli"
-  },
-  {
-    "id": "2025-26-G27-FIO-TOR",
-    "matchday": 27,
-    "date": "2026-03-07",
-    "time": "20:45",
-    "homeTeam": "Fiorentina",
-    "awayTeam": "Torino",
-    "stadium": "Stadio Artemio Franchi",
-    "city": "Firenze"
-  },
-  {
-    "id": "2025-26-G27-CAG-PAR",
-    "matchday": 27,
-    "date": "2026-03-08",
-    "time": "12:30",
-    "homeTeam": "Cagliari",
-    "awayTeam": "Parma",
-    "stadium": "Unipol Domus",
-    "city": "Cagliari"
-  },
-  {
-    "id": "2025-26-G27-COM-UDI",
-    "matchday": 27,
-    "date": "2026-03-08",
-    "time": "15:00",
-    "homeTeam": "Como",
-    "awayTeam": "Udinese",
-    "stadium": "Stadio Giuseppe Sinigaglia",
-    "city": "Como"
-  },
-  {
-    "id": "2025-26-G27-GEN-MIL",
-    "matchday": 27,
-    "date": "2026-03-08",
-    "time": "15:00",
-    "homeTeam": "Genoa",
-    "awayTeam": "AC Milan",
-    "stadium": "Stadio Luigi Ferraris",
-    "city": "Genova"
-  },
-  {
-    "id": "2025-26-G27-PIS-BOL",
-    "matchday": 27,
-    "date": "2026-03-08",
-    "time": "18:00",
-    "homeTeam": "Pisa",
-    "awayTeam": "Bologna",
-    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
-    "city": "Pisa"
-  },
-  {
-    "id": "2025-26-G27-SAS-ROM",
-    "matchday": 27,
-    "date": "2026-03-08",
-    "time": "20:45",
-    "homeTeam": "Sassuolo",
-    "awayTeam": "Roma",
-    "stadium": "MAPEI Stadium - Città del Tricolore",
-    "city": "Reggio Emilia"
-  },
-  {
-    "id": "2025-26-G27-CRE-ATA",
-    "matchday": 27,
-    "date": "2026-03-09",
-    "time": "18:30",
-    "homeTeam": "Cremonese",
-    "awayTeam": "Atalanta",
-    "stadium": "Stadio Giovanni Zini",
-    "city": "Cremona"
-  },
-  {
-    "id": "2025-26-G27-LAZ-LEC",
-    "matchday": 27,
-    "date": "2026-03-09",
-    "time": "20:45",
-    "homeTeam": "Lazio",
-    "awayTeam": "Lecce",
-    "stadium": "Stadio Olimpico",
-    "city": "Roma"
-  },
-  {
-    "id": "2025-26-G28-MIL-NAP",
-    "matchday": 28,
-    "date": "2026-03-14",
-    "time": "15:00",
-    "homeTeam": "AC Milan",
-    "awayTeam": "Napoli",
-    "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
-  },
-  {
-    "id": "2025-26-G28-JUV-PIS",
-    "matchday": 28,
-    "date": "2026-03-14",
-    "time": "18:00",
-    "homeTeam": "Juventus",
-    "awayTeam": "Pisa",
-    "stadium": "Allianz Stadium",
-    "city": "Torino"
-  },
-  {
-    "id": "2025-26-G28-ROM-CAG",
-    "matchday": 28,
-    "date": "2026-03-14",
-    "time": "20:45",
-    "homeTeam": "Roma",
-    "awayTeam": "Cagliari",
-    "stadium": "Stadio Olimpico",
-    "city": "Roma"
-  },
-  {
-    "id": "2025-26-G28-BOL-FIO",
-    "matchday": 28,
-    "date": "2026-03-15",
-    "time": "12:30",
-    "homeTeam": "Bologna",
-    "awayTeam": "Fiorentina",
-    "stadium": "Stadio Renato Dall'Ara",
-    "city": "Bologna"
-  },
-  {
-    "id": "2025-26-G28-UDI-CRE",
-    "matchday": 28,
-    "date": "2026-03-15",
-    "time": "15:00",
-    "homeTeam": "Udinese",
-    "awayTeam": "Cremonese",
-    "stadium": "Bluenergy Stadium",
-    "city": "Udine"
-  },
-  {
-    "id": "2025-26-G28-VER-COM",
-    "matchday": 28,
-    "date": "2026-03-15",
-    "time": "15:00",
-    "homeTeam": "Hellas Verona",
-    "awayTeam": "Como",
-    "stadium": "Stadio Marcantonio Bentegodi",
-    "city": "Verona"
-  },
-  {
-    "id": "2025-26-G28-ATA-SAS",
-    "matchday": 28,
-    "date": "2026-03-15",
-    "time": "18:00",
-    "homeTeam": "Atalanta",
-    "awayTeam": "Sassuolo",
-    "stadium": "Gewiss Stadium",
-    "city": "Bergamo"
-  },
-  {
-    "id": "2025-26-G28-GEN-LAZ",
-    "matchday": 28,
-    "date": "2026-03-15",
-    "time": "20:45",
-    "homeTeam": "Genoa",
-    "awayTeam": "Lazio",
-    "stadium": "Stadio Luigi Ferraris",
-    "city": "Genova"
-  },
-  {
-    "id": "2025-26-G28-TOR-PAR",
-    "matchday": 28,
-    "date": "2026-03-16",
-    "time": "18:30",
-    "homeTeam": "Torino",
-    "awayTeam": "Parma",
-    "stadium": "Stadio Olimpico Grande Torino",
-    "city": "Torino"
-  },
-  {
-    "id": "2025-26-G28-LEC-INT",
-    "matchday": 28,
-    "date": "2026-03-16",
-    "time": "20:45",
-    "homeTeam": "Lecce",
-    "awayTeam": "Inter",
-    "stadium": "Stadio Via del Mare",
-    "city": "Lecce"
-  },
-  {
-    "id": "2025-26-G29-INT-ATA",
-    "matchday": 29,
-    "date": "2026-03-21",
-    "time": "15:00",
-    "homeTeam": "Inter",
-    "awayTeam": "Atalanta",
-    "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
-  },
-  {
-    "id": "2025-26-G29-NAP-GEN",
-    "matchday": 29,
-    "date": "2026-03-21",
-    "time": "18:00",
-    "homeTeam": "Napoli",
-    "awayTeam": "Genoa",
-    "stadium": "Stadio Diego Armando Maradona",
-    "city": "Napoli"
-  },
-  {
-    "id": "2025-26-G29-FIO-LAZ",
-    "matchday": 29,
-    "date": "2026-03-21",
-    "time": "20:45",
-    "homeTeam": "Fiorentina",
-    "awayTeam": "Lazio",
-    "stadium": "Stadio Artemio Franchi",
-    "city": "Firenze"
-  },
-  {
-    "id": "2025-26-G29-CAG-PIS",
-    "matchday": 29,
-    "date": "2026-03-22",
-    "time": "12:30",
-    "homeTeam": "Cagliari",
-    "awayTeam": "Pisa",
-    "stadium": "Unipol Domus",
-    "city": "Cagliari"
-  },
-  {
-    "id": "2025-26-G29-COM-JUV",
-    "matchday": 29,
-    "date": "2026-03-22",
-    "time": "15:00",
-    "homeTeam": "Como",
-    "awayTeam": "Juventus",
-    "stadium": "Stadio Giuseppe Sinigaglia",
-    "city": "Como"
-  },
-  {
-    "id": "2025-26-G29-CRE-TOR",
-    "matchday": 29,
-    "date": "2026-03-22",
-    "time": "15:00",
-    "homeTeam": "Cremonese",
-    "awayTeam": "Torino",
-    "stadium": "Stadio Giovanni Zini",
-    "city": "Cremona"
-  },
-  {
-    "id": "2025-26-G29-PAR-VER",
-    "matchday": 29,
-    "date": "2026-03-22",
-    "time": "18:00",
-    "homeTeam": "Parma",
-    "awayTeam": "Hellas Verona",
-    "stadium": "Stadio Ennio Tardini",
-    "city": "Parma"
-  },
-  {
-    "id": "2025-26-G29-SAS-UDI",
-    "matchday": 29,
-    "date": "2026-03-22",
-    "time": "20:45",
-    "homeTeam": "Sassuolo",
-    "awayTeam": "Udinese",
-    "stadium": "MAPEI Stadium - Città del Tricolore",
-    "city": "Reggio Emilia"
-  },
-  {
-    "id": "2025-26-G29-LEC-BOL",
-    "matchday": 29,
-    "date": "2026-03-23",
-    "time": "18:30",
-    "homeTeam": "Lecce",
-    "awayTeam": "Bologna",
-    "stadium": "Stadio Via del Mare",
-    "city": "Lecce"
-  },
-  {
-    "id": "2025-26-G29-ROM-MIL",
-    "matchday": 29,
-    "date": "2026-03-23",
-    "time": "20:45",
-    "homeTeam": "Roma",
-    "awayTeam": "AC Milan",
-    "stadium": "Stadio Olimpico",
-    "city": "Roma"
-  },
-  {
-    "id": "2025-26-G30-MIL-FIO",
-    "matchday": 30,
-    "date": "2026-03-28",
-    "time": "15:00",
-    "homeTeam": "AC Milan",
-    "awayTeam": "Fiorentina",
-    "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
-  },
-  {
-    "id": "2025-26-G30-JUV-GEN",
-    "matchday": 30,
-    "date": "2026-03-28",
-    "time": "18:00",
-    "homeTeam": "Juventus",
-    "awayTeam": "Genoa",
-    "stadium": "Allianz Stadium",
-    "city": "Torino"
-  },
-  {
-    "id": "2025-26-G30-INT-SAS",
-    "matchday": 30,
-    "date": "2026-03-28",
-    "time": "20:45",
-    "homeTeam": "Inter",
-    "awayTeam": "Sassuolo",
-    "stadium": "Stadio Giuseppe Meazza",
-    "city": "Milano"
-  },
-  {
-    "id": "2025-26-G30-CAG-CRE",
-    "matchday": 30,
-    "date": "2026-03-29",
-    "time": "12:30",
-    "homeTeam": "Cagliari",
-    "awayTeam": "Cremonese",
-    "stadium": "Unipol Domus",
-    "city": "Cagliari"
-  },
-  {
-    "id": "2025-26-G30-ATA-COM",
-    "matchday": 30,
-    "date": "2026-03-29",
-    "time": "15:00",
-    "homeTeam": "Atalanta",
-    "awayTeam": "Como",
-    "stadium": "Gewiss Stadium",
-    "city": "Bergamo"
-  },
-  {
-    "id": "2025-26-G30-BOL-VER",
-    "matchday": 30,
-    "date": "2026-03-29",
-    "time": "15:00",
-    "homeTeam": "Bologna",
-    "awayTeam": "Hellas Verona",
-    "stadium": "Stadio Renato Dall'Ara",
-    "city": "Bologna"
-  },
-  {
-    "id": "2025-26-G30-NAP-LAZ",
-    "matchday": 30,
-    "date": "2026-03-29",
-    "time": "18:00",
-    "homeTeam": "Napoli",
-    "awayTeam": "Lazio",
-    "stadium": "Stadio Diego Armando Maradona",
-    "city": "Napoli"
-  },
-  {
-    "id": "2025-26-G30-PIS-UDI",
-    "matchday": 30,
-    "date": "2026-03-29",
-    "time": "20:45",
-    "homeTeam": "Pisa",
-    "awayTeam": "Udinese",
-    "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
-    "city": "Pisa"
-  },
-  {
-    "id": "2025-26-G30-TOR-ROM",
-    "matchday": 30,
-    "date": "2026-03-30",
-    "time": "18:30",
-    "homeTeam": "Torino",
-    "awayTeam": "Roma",
-    "stadium": "Stadio Olimpico Grande Torino",
-    "city": "Torino"
-  },
-  {
-    "id": "2025-26-G30-LEC-PAR",
-    "matchday": 30,
-    "date": "2026-03-30",
-    "time": "20:45",
-    "homeTeam": "Lecce",
-    "awayTeam": "Parma",
-    "stadium": "Stadio Via del Mare",
-    "city": "Lecce"
+    "city": "Udine",
+    "HomeGoals": null,
+    "AwayGoals": null,
+    "status": "SCHEDULED"
   }
 ]
